@@ -4,13 +4,13 @@ import cta from '../assets/img/cta.png'
 class CTA extends Component {
   render() {
     return (
-      <section id="contact" class="section columns is-paddingless is-large" style={{ backgroundColor: "#f7faff" }}>
-        <figure class="image is-half column is-paddingless">
-          <img src={cta} className="is-fullheight" />
+      <section id="contact" className="section columns is-paddingless is-large" style={{ backgroundColor: "#f7faff" }}>
+        <figure className="image is-half column is-paddingless">
+          <img src={cta} className="is-fullheight" alt=""/>
         </figure>
-        <div class="column is-1"></div>
+        <div className="column is-1"></div>
 
-        <form class="column is-4 is-vcentered" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST' onSubmit='javascript:document.charset="UTF-8";' accept-charset='UTF-8'>
+        <form className="column is-4 is-vcentered" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST'>
           <h2 className="title is-4">Looking for funds for your club or your sport career?</h2>
           <p className="title is-6">Are you an athlete, club or organization? <br /> We can help you to start a campaign now!!</p>
           <input type='hidden' name='xnQsjsdp' value='26ded01eee3cbb74693abaeee34e2f8acbb50ca314ea68813ba8b57665b4dc48' />
@@ -20,45 +20,45 @@ class CTA extends Component {
           <input type='hidden' name='returnURL' value='https://market.globatalent.com' />
           <input type='hidden' name='LEADCF1' value='B2B' />
 
-          <div class="field">
-            <label class="label">First Name<span className="has-text-danger">*</span></label>
-            <div class="control">
-              <input class="input" required type="text" placeholder="Your first name" maxlength='40' name='First Name' />
+          <div className="field">
+            <label className="label">First Name<span className="has-text-danger">*</span></label>
+            <div className="control">
+              <input className="input" required type="text" placeholder="Your first name" maxLength='40' name='First Name' />
             </div>
           </div>
 
-          <div class="field">
-            <label class="label">Last Name<span className="has-text-danger">*</span></label>
-            <div class="control">
-              <input class="input" required type="text" placeholder="Your last name" maxlength='80' name='Last Name' />
+          <div className="field">
+            <label className="label">Last Name<span className="has-text-danger">*</span></label>
+            <div className="control">
+              <input className="input" required type="text" placeholder="Your last name" maxLength='80' name='Last Name' />
             </div>
           </div>
 
-          <div class="field">
-            <label class="label">Company<span className="has-text-danger">*</span></label>
-            <div class="control">
-              <input class="input" required type="text" placeholder="Text input" maxlength='100' name='Company' />
+          <div className="field">
+            <label className="label">Company<span className="has-text-danger">*</span></label>
+            <div className="control">
+              <input className="input" required type="text" placeholder="Text input" maxLength='100' name='Company' />
             </div>
           </div>
 
-          <div class="field">
-            <label class="label">Email<span className="has-text-danger">*</span></label>
-            <div class="control">
-              <input class="input" required type="email" maxlength='100' name='Email' placeholder="Your contact mail" />
+          <div className="field">
+            <label className="label">Email<span className="has-text-danger">*</span></label>
+            <div className="control">
+              <input className="input" required type="email" maxLength='100' name='Email' placeholder="Your contact mail" />
             </div>
           </div>
 
-          <div class="field">
-            <label class="label">Phone</label>
-            <div class="control">
-              <input class="input" type="tel" placeholder="Your contact phone (Optional)" maxlength='30' name='Phone' />
+          <div className="field">
+            <label className="label">Phone</label>
+            <div className="control">
+              <input className="input" type="tel" placeholder="Your contact phone (Optional)" maxLength='30' name='Phone' />
             </div>
           </div>
 
-          <div class="field">
-            <label class="label">How did you find us?</label>
-            <div class="control">
-              <div class="select">
+          <div className="field">
+            <label className="label">How did you find us?</label>
+            <div className="control">
+              <div className="select">
                 <select name='Lead Source'>
                   <option value='-None-'>-None-</option>
                   <option value='Advertisement'>Advertisement</option>
@@ -88,28 +88,28 @@ class CTA extends Component {
             </div>
           </div>
 
-          <div class="field">
-            <label class="label">Description<span className="has-text-danger">*</span></label>
-            <div class="control">
-              <textarea class="textarea" required placeholder="Tell us briefly how we can help you tokenize" name='Description' maxlength='32000'></textarea>
+          <div className="field">
+            <label className="label">Description<span className="has-text-danger">*</span></label>
+            <div className="control">
+              <textarea className="textarea" required placeholder="Tell us briefly how we can help you tokenize" name='Description' maxLength='32000'></textarea>
             </div>
           </div>
 
-          <div class="field">
-            <div class="control">
-              <label class="checkbox">
-                <input autocomplete='off' onclick='disableSubmit()' required type='checkbox' name='privacyTool' />
+          <div className="field">
+            <div className="control">
+              <label className="checkbox">
+                <input autoComplete='off' required type='checkbox' name='privacyTool' />
                 I agree to the <a href="#">terms and conditions</a>
               </label>
             </div>
           </div>
 
-          <div class="field is-grouped is-grouped-centered">
-            <div class="control">
-              <input class="button is-link" id='formsubmit' type='submit' value='Submit' />
+          <div className="field is-grouped is-grouped-centered">
+            <div className="control">
+              <input className="button is-link" id='formsubmit' type='submit' value='Submit' />
             </div>
-            <div class="control">
-              <input class="button is-text" onclick='disableSubmitwhileReset()' type='reset' value='Reset' />
+            <div className="control">
+              <input className="button is-text" type='reset' value='Reset' />
             </div>
           </div>
         </form>

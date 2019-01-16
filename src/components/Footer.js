@@ -7,7 +7,7 @@ class Footer extends Component {
       <footer className="footer has-text-white columns">
         <section className="column">
         <figure className="image is-128x128">
-           <a href="https://globatalent.com"><img src={logo} /></a>
+           <a href="https://globatalent.com"><img src={logo} alt="Globatalent logo" /></a>
           </figure>
       </section>
         <article className="column">
