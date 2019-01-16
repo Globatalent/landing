@@ -22,7 +22,7 @@ class Footer extends Component {
         </section>
         <section className="column">
         <h3 className="title is-6 has-text-white">Join our conversations</h3>
-        <ul>
+        <ul className="is-flex">
         <li><a href="https://www.facebook.com/globatalent.official" className="icon"></a></li>
           <li><a href="https://twitter.com/globatalent" className="icon"></a></li>
           <li><a href="https://www.instagram.com/globatalent/" className="icon"></a></li>
