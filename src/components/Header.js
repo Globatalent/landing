@@ -19,10 +19,10 @@ class Header extends Component {
 
           <div id="navbarBurguer" className="navbar-menu">
             <div className="navbar-end">
-              <a className="navbar-item has-text-white" href="">
+              <a className="navbar-item has-text-white" href="#about">
                 About
                 </a>
-              <a className="navbar-item has-text-white" href="">
+              <a className="navbar-item has-text-white" href="#contact">
                 Contact
                 </a>
             </div>
