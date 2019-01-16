@@ -4,7 +4,7 @@ class Header extends Component {
   render() {
     return (
       <header>
-        <nav className="navbar is-transparent is-fixed-top" style={{backgroundColor: 'transparent', backgroundImage: 'none'}}>
+        <nav className="navbar is-transparent is-fixed-top" style={{backgroundColor: 'transparent', mixBlendMode: 'difference', backgroundImage: 'none'}}>
           <div className="navbar-brand">
             <a className="navbar-item" href="https://globatalent.com">
               <img src="" alt="Globatalent: The first sports crypto exchange where you can trade and support your favorite clubs and sports idols" />
