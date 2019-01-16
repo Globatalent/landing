@@ -4,7 +4,7 @@ import cta from '../assets/img/cta.png'
 class CTA extends Component {
   render() {
     return (
-      <section class="section columns is-paddingless is-large" style={{ backgroundColor: "#f7faff" }}>
+      <section id="contact" class="section columns is-paddingless is-large" style={{ backgroundColor: "#f7faff" }}>
         <figure class="image is-half column is-paddingless">
           <img src={cta} className="is-fullheight" />
         </figure>
