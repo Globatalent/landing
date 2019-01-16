@@ -1,10 +1,14 @@
 import React, { Component } from "react";
+import logo from '../assets/img/logo.png';
 
 class Footer extends Component {
   render() {
     return (
       <footer className="footer has-text-white columns">
         <section className="column">
+        <figure className="image is-128x128">
+           <a href="https://globatalent.com"><img src={logo} /></a>
+          </figure>
       </section>
         <article className="column">
           <h3 className="title is-6 has-text-white">About</h3>
@@ -29,9 +33,8 @@ class Footer extends Component {
           <li><a href="https://t.me/globatalent/" className="icon"></a></li>
           <li><a href="https://linkedin.com/company/globatalent" className="icon"></a></li>
         </ul>
-
+        <small>&copy; {(new Date().getFullYear())} Globatalent, All rights reserved</small>
         </section>
-        <small class="column">Copyright &copy; {(new Date().getFullYear())} Globatalent, All rights reserved</small>
       </footer>
     )
   }
