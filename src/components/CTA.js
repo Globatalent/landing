@@ -4,13 +4,13 @@ import cta from '../assets/img/cta.png'
 class CTA extends Component {
   render() {
     return (
-      <section id="contact" className="section columns is-paddingless is-large" style={{ backgroundColor: "#f7faff" }}>
+      <section id="contact" className="section columns is-vcentered is-paddingless is-large" style={{ backgroundColor: "#f7faff" }}>
         <figure className="image is-half column is-paddingless">
-          <img src={cta} className="is-fullheight" alt=""/>
+          <img src={cta} className="is-fullheight" alt="" />
         </figure>
         <div className="column is-1"></div>
 
-        <form className="column is-4 is-vcentered" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST'>
+        <form className="column is-4" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST'>
           <h2 className="title is-4">Looking for funds for your club or your sport career?</h2>
           <p className="title is-6">Are you an athlete, club or organization? <br /> We can help you to start a campaign now!!</p>
           <input type='hidden' name='xnQsjsdp' value='26ded01eee3cbb74693abaeee34e2f8acbb50ca314ea68813ba8b57665b4dc48' />
@@ -20,45 +20,65 @@ class CTA extends Component {
           <input type='hidden' name='returnURL' value='https://market.globatalent.com' />
           <input type='hidden' name='LEADCF1' value='B2B' />
 
-          <div className="field">
-            <label className="label">First Name<span className="has-text-danger">*</span></label>
-            <div className="control">
-              <input className="input" required type="text" placeholder="Your first name" maxLength='40' name='First Name' />
+          <div className="field is-horizontal">
+            <div className="field-label">
+              <label className="label">Name<span className="has-text-danger">*</span></label>
+            </div>
+            <div className="field-body">
+            <div className="field">
+              <div className="control">
+                <input className="input" required type="text" placeholder="First name (Required)" maxLength='40' name='First Name' />
+              </div>
+            </div>
+
+            <div className="field">
+              <div className="control">
+                <input className="input" required type="text" placeholder="Last name (Required)" maxLength='80' name='Last Name' />
+              </div>
+            </div>
             </div>
           </div>
 
-          <div className="field">
-            <label className="label">Last Name<span className="has-text-danger">*</span></label>
-            <div className="control">
-              <input className="input" required type="text" placeholder="Your last name" maxLength='80' name='Last Name' />
+          <div className="field is-horizontal">
+            <div className="field-label">
+              <label className="label">Contact<span className="has-text-danger">*</span></label>
+            </div>
+            <div className="field-body">
+            <div className="field">
+              <div className="control">
+              <input className="input" required type="email" maxLength='100' name='Email' placeholder="Email (Required)" />
+              </div>
+            </div>
+
+            <div className="field">
+              <div className="control">
+              <input className="input" type="tel" placeholder="Phone (Optional)" maxLength='30' name='Phone' />
+              </div>
+            </div>
             </div>
           </div>
 
-          <div className="field">
-            <label className="label">Company<span className="has-text-danger">*</span></label>
-            <div className="control">
-              <input className="input" required type="text" placeholder="Text input" maxLength='100' name='Company' />
+          <div className="field is-horizontal">
+            <div className="field-label">
+              <label className="label">Organization<span className="has-text-danger">*</span></label>
+            </div>
+            <div className="field-body">
+            <div className="field">
+              <div className="control">
+              <input className="input" required type="text" placeholder="Club or athlete name (Required)" maxLength='100' name='Company' />
+              </div>
+            </div>
             </div>
           </div>
 
-          <div className="field">
-            <label className="label">Email<span className="has-text-danger">*</span></label>
-            <div className="control">
-              <input className="input" required type="email" maxLength='100' name='Email' placeholder="Your contact mail" />
+          <div className="field is-horizontal">
+            <div className="field-label">
+              <label className="label">How did you found us?</label>
             </div>
-          </div>
-
-          <div className="field">
-            <label className="label">Phone</label>
-            <div className="control">
-              <input className="input" type="tel" placeholder="Your contact phone (Optional)" maxLength='30' name='Phone' />
-            </div>
-          </div>
-
-          <div className="field">
-            <label className="label">How did you find us?</label>
-            <div className="control">
-              <div className="select">
+            <div className="field-body">
+            <div className="field">
+              <div className="control">
+              <div className="select is-fullwidth">
                 <select name='Lead Source'>
                   <option value='-None-'>-None-</option>
                   <option value='Advertisement'>Advertisement</option>
@@ -85,6 +105,8 @@ class CTA extends Component {
                   <option value='Google&#x2b;'>Google&#x2b;</option>
                 </select>
               </div>
+              </div>
+            </div>
             </div>
           </div>
 
@@ -99,7 +121,7 @@ class CTA extends Component {
             <div className="control">
               <label className="checkbox">
                 <input autoComplete='off' required type='checkbox' name='privacyTool' />
-                I agree to the <a href="#">terms and conditions</a>
+                I agree to the <a href="#terms">terms and conditions</a>
               </label>
             </div>
           </div>
