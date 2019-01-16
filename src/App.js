@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './assets/img/logo.svg';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Info from './components/Info';
+import CTA from './components/CTA';
 import Footer from './components/Footer';
 
 class App extends Component {
@@ -10,6 +12,8 @@ class App extends Component {
       <div className="App">
         <Header/>
         <Hero/>
+        <Info/>
+        <CTA/>
         <Footer/>
       </div>
     );
