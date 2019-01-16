@@ -1,7 +1,7 @@
 {
   "name": "landing",
   "version": "1.0.0",
-  "homepage": "https://landing.globatalent.com/b2bpromo",
+  "homepage": "https://landing.globatalent.com/",
   "dependencies": {
     "bulma": "^0.7.2",
     "gh-pages": "^2.0.1",
