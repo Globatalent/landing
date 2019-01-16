@@ -4,15 +4,15 @@ import cta from '../assets/img/cta.png'
 class CTA extends Component {
   render() {
     return (
-      <section class="section columns is-paddingless" style={{ backgroundColor: "#f7faff" }}>
+      <section class="section columns is-paddingless is-large" style={{ backgroundColor: "#f7faff" }}>
         <figure class="image is-half column is-paddingless">
           <img src={cta} className="is-fullheight" />
         </figure>
         <div class="column is-1"></div>
 
         <form class="column is-4 is-vcentered" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST' onSubmit='javascript:document.charset="UTF-8";' accept-charset='UTF-8'>
-        <h2 className="title is-4">Looking for funds for your club or your sport career?</h2>
-        <p className="title is-6">Are you an athlete, club or organization? <br/> We can help you to start a campaign now!!</p>
+          <h2 className="title is-4">Looking for funds for your club or your sport career?</h2>
+          <p className="title is-6">Are you an athlete, club or organization? <br /> We can help you to start a campaign now!!</p>
           <input type='hidden' name='xnQsjsdp' value='26ded01eee3cbb74693abaeee34e2f8acbb50ca314ea68813ba8b57665b4dc48' />
           <input type='hidden' name='zc_gad' id='zc_gad' value='' />
           <input type='hidden' name='xmIwtLD' value='902ae1508809b664f4a8880feb7226435ad252e90c524204e2b557a276287e3b' />
@@ -95,7 +95,16 @@ class CTA extends Component {
             </div>
           </div>
 
-          <div class="field is-grouped">
+          <div class="field">
+            <div class="control">
+              <label class="checkbox">
+                <input autocomplete='off' onclick='disableSubmit()' required type='checkbox' name='privacyTool' />
+                I agree to the <a href="#">terms and conditions</a>
+              </label>
+            </div>
+          </div>
+
+          <div class="field is-grouped is-grouped-centered">
             <div class="control">
               <input class="button is-link" id='formsubmit' type='submit' value='Submit' />
             </div>
@@ -103,7 +112,6 @@ class CTA extends Component {
               <input class="button is-text" onclick='disableSubmitwhileReset()' type='reset' value='Reset' />
             </div>
           </div>
-          {/* <div class='dIB vat mT2' align='left' style='color: rgb(0, 0, 0); font-size: 12px; font-family: sans-serif;display: inline-block;vertical-align: top;'><div class='displayPurpose  f13'><label class='newCustomchkbox-md dIB w100per'><input autocomplete='off' onclick='disableSubmit()' id='privacyTool' type='checkbox' name='privacyTool'><span class='chkbxIcon'></span></label></div></div><div class='fw200 dIB vat mL5' style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Georgia;vertical-align: top;margin-top: 3px;line-height: 14px;width:90%;display: inline-block;color:black'> I agree to the <a href='http://globatalent.com/termsandconditions' title='http://globatalent.com/termsandconditions' target='_blank'>Privacy Policy and Terms of Service</a>.</div> */}
         </form>
 
       </section>
