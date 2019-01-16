@@ -6,7 +6,7 @@ import info_3 from '../assets/img/info_3.png'
 class Info extends Component {
   render() {
     return (
-      <section className="section is-centered is-large is-multiline columns">
+      <section id="about" className="section is-centered is-large is-multiline columns">
         <article className="column is-2">
           <figure class="image">
             <img src={info_1} />
