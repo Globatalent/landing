@@ -6,9 +6,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 class Footer extends Component {
   render() {
     return (
-      <footer className="footer has-text-white columns">
-        <section className="column">
-          <figure className="image is-128x128">
+      <footer className="footer has-text-white columns ">
+        <div className="column is-1"></div>
+        <section className="column level is-2">
+          <figure className="image is-128x128 level-item is-centered">
             <a href="https://globatalent.com"><img src={logo} alt="Globatalent logo" /></a>
           </figure>
         </section>
@@ -35,6 +36,7 @@ class Footer extends Component {
             <li><a href="https://t.me/globatalent/" className="icon has-text-white"><FontAwesomeIcon icon={faTelegram} /></a></li>
             <li><a href="https://linkedin.com/company/globatalent" className="icon has-text-white"><FontAwesomeIcon icon={faLinkedin} /></a></li>
           </ul>
+          <br/>
           <small>&copy; {(new Date().getFullYear())} Globatalent, All rights reserved</small>
         </section>
       </footer>

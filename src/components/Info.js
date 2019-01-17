@@ -6,7 +6,7 @@ import info_3 from '../assets/img/info_3.png'
 class Info extends Component {
   render() {
     return (
-      <section id="about" className="section is-centered is-multiline columns">
+      <section id="about" className="section is-centered columns">
         <article className="column is-2">
           <figure className="image">
             <img src={info_1} alt="Globatalent is a unique platform that give you the chance to interact with your fans in unique ways" />
