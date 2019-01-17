@@ -17,7 +17,7 @@ class CTA extends Component {
           <input type='hidden' name='zc_gad' id='zc_gad' value='' />
           <input type='hidden' name='xmIwtLD' value='902ae1508809b664f4a8880feb7226435ad252e90c524204e2b557a276287e3b' />
           <input type='hidden' name='actionType' value='TGVhZHM=' />
-          <input type='hidden' name='returnURL' value='https://market.globatalent.com' />
+          <input type='hidden' name='returnURL' value='https://landing.globatalent.com/b2bthanks' />
           <input type='hidden' name='LEADCF1' value='B2B' />
 
           <div className="field is-horizontal">
