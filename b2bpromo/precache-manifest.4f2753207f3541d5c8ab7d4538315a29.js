@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/b2bpromo/static/media/supp_4.0d290e59.png"
   },
   {
-    "revision": "2fd5559bf908163a1f44d29766995e34",
+    "revision": "8fd18e41b5ed3c26492362e84b5a46b2",
     "url": "/b2bpromo/index.html"
   }
 ];
