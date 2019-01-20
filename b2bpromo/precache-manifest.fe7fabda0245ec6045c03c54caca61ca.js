@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "568b9d663d76e90506b20cc1ddf74988",
-    "url": "/b2bpromo/static/media/cta.568b9d66.png"
+    "revision": "c15ae8399181b6d099ea99f555392ebe",
+    "url": "/b2bpromo/static/media/card_1.c15ae839.png"
   },
   {
-    "revision": "ba448878167c5ca44832",
-    "url": "/b2bpromo/static/css/main.c14654a3.chunk.css"
+    "revision": "7955b3a9cbd978ee977c",
+    "url": "/b2bpromo/static/css/main.f83d8007.chunk.css"
   },
   {
     "revision": "d47bd2a36bc69604b8a5",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/b2bpromo/static/media/hero.d8e7a98a.png"
   },
   {
-    "revision": "977fb49d8fac82d063d5e0e48f8e2bed",
-    "url": "/b2bpromo/static/media/info_1.977fb49d.png"
+    "revision": "372c59f980e474003f663e8b459f7e97",
+    "url": "/b2bpromo/static/media/info_1.372c59f9.png"
   },
   {
     "revision": "fa632ae4a6a4f2d68dbf414009414359",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/b2bpromo/static/media/info_3.27e34b04.png"
   },
   {
-    "revision": "ba448878167c5ca44832",
-    "url": "/b2bpromo/static/js/main.ba448878.chunk.js"
+    "revision": "568b9d663d76e90506b20cc1ddf74988",
+    "url": "/b2bpromo/static/media/cta.568b9d66.png"
   },
   {
-    "revision": "c15ae8399181b6d099ea99f555392ebe",
-    "url": "/b2bpromo/static/media/card_1.c15ae839.png"
+    "revision": "7955b3a9cbd978ee977c",
+    "url": "/b2bpromo/static/js/main.7955b3a9.chunk.js"
   },
   {
     "revision": "11884515a0a82d212dd42c79bf49e2ee",
@@ -64,7 +64,11 @@ self.__precacheManifest = [
     "url": "/b2bpromo/static/media/supp_4.0d290e59.png"
   },
   {
-    "revision": "8fd18e41b5ed3c26492362e84b5a46b2",
+    "revision": "785388a9e6416c286ec82ff966c696fd",
+    "url": "/b2bpromo/static/media/Aller_Rg.785388a9.ttf"
+  },
+  {
+    "revision": "4012aba3e1dd2824b0de6d174674ee14",
     "url": "/b2bpromo/index.html"
   }
 ];

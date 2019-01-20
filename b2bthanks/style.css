@@ -1,0 +1,8 @@
+@font-face {
+font-family: "Aller";
+src: url("fonts/Aller_Rg.ttf");
+}
+
+body {
+  font-family: "Aller"
+}
