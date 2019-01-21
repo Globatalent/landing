@@ -8,7 +8,7 @@ import card_3 from '../assets/img/card_3.png'
 class Campaigns extends Component {
   render() {
     return (
-      <section className="section is-medium">
+      <section className="section">
         <header className="level">
           <h2 className="title level-item is-4">Active Campaigns:</h2>
           <a className="level-item is-size-6 has-text-weight-bold has-text-grey-light is-uppercase" href="https://market.globatalent.com/campaigns" target="_blank" rel="noopener noreferrer">Show more</a>

@@ -7,7 +7,7 @@ import supp_4 from '../assets/img/supp_4.png'
 class Supported extends Component {
   render() {
     return (
-      <section className="section is-medium" style={{ backgroundColor: "#f7faff" }}>
+      <section className="section" style={{ backgroundColor: "#f7faff" }}>
         <header className="level">
           <h2 className="title level-item is-4">Globatalent is supported by:</h2>
           <a className="level-item is-size-6 has-text-weight-bold has-text-grey-light is-uppercase" href="https://web.globatalent.com" target="_blank" rel="noopener noreferrer">Show more</a>
