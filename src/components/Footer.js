@@ -6,10 +6,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 class Footer extends Component {
   render() {
     return (
-      <footer className="footer has-text-white columns ">
+      <footer className="footer has-text-white columns">
         <div className="column is-1"></div>
         <section className="column level is-2">
-          <figure className="image is-128x128 level-item is-centered">
+          <figure className="image level-item is-centered">
             <a href="https://globatalent.com"><img src={logo} alt="Globatalent logo" /></a>
           </figure>
         </section>

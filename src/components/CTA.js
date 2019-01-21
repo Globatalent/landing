@@ -4,10 +4,12 @@ import cta from '../assets/img/cta.png'
 class CTA extends Component {
   render() {
     return (
-      <section id="contact" className="section columns is-vcentered is-paddingless is-large" style={{ backgroundColor: "#f7faff" }}>
-        <figure className="image is-half column is-paddingless">
-          <img src={cta} className="is-fullheight" alt="" />
+      <section id="contact" className="section columns is-medium is-vcentered is-paddingless" style={{ backgroundColor: "#f7faff" }}>
+        <div className="image is-half column is-paddingless">
+        <figure className="image">
+          <img src={cta} alt="" />
         </figure>
+        </div>
         <div className="column is-1"></div>
 
         <form className="column is-4" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST'>

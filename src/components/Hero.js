@@ -6,13 +6,13 @@ import logo from '../assets/img/logo.png';
 class Hero extends Component {
   render() {
     return (
-      <section className="hero is-fullheight hero--custom--overlay" style={{
-        backgroundImage: "url(" + hero + ")",
+      <section className="hero is-medium"  style={{
+        backgroundImage: " linear-gradient( rgba(51,89,160,0.3),  rgba(51,89,160,0.5)) ,url(" + hero + ")",
         backgroundPosition: 'center center',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover'
     }}>
-          <header className="hero-head">
+        <header className="hero-head">
         <nav className="navbar is-transparent level" style={{backgroundColor: 'transparent',  textShadow: "1px 1px 1px black"}}>
           <div className="navbar-brand level-item">
             <a className="navbar-item" href="https://globatalent.com">
