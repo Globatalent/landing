@@ -1,0 +1,65 @@
+{
+  "site": {
+    "nav": {
+    "url_1": "Chi siamo",
+    "url_2": "Contatto"
+    },
+    "title": "Monetizzare Talenti Sportivi",
+    "subtitle_1": "È arrivata la rivoluzione nello sport.",
+    "subtitle_2": "Unisciti subito per fare guadagni straordinari monetizzando i futuri introiti del tuo club o del tuo atleta preferito.",
+    "about": {
+      "title": "Chi siamo",
+      "text": "Globatalent è il primo scambio di criptovalute in cui puoi tokenizzare, scambiare e supportare i tuoi club preferiti e idoli sportivi."
+    },
+    "locations": {
+      "title": "Dove siamo",
+      "location_1": "Londra",
+      "location_2": "Buenos Aires",
+      "location_3": "Hong Kong - 1/F Knowles Building, HKU, Pokfulam Road" 
+    },
+    "joinSocial": "Unisciti alla conversazione"
+  },
+  "info": {
+    "title_1": "Piattaforma esclusiva.",
+    "text_1": "Globatalent è una piattaforma unica che ti darà una nuova fonte di guadagni straordinari, migliorando in modo innovativo il coinvolgimento dei tuoi fan in tutto il mondo.",
+    "title_2": "Condividi i profitti",
+    "text_2": "Condividere i tuoi profitti futuri con i tuoi fan e monetizzare subito i futuri guadagni? Grazie alla nostra tecnologia Blockchain, ora è possibile!.",
+    "title_3": "Monetizzazione",
+    "text_3": "Puoi monetizzare qualunque diritto, da una percentuale dei guadagni futuri per i trasferimenti tra club, premi in denaro, diritti di immagine... all'accesso a comunità private e altre gratifiche, in cambio riceverai subito dei fondi."
+  },
+  "form": {
+    "title": "Cerchi dei fondi per la tua squadra o per la tua carriera sportiva?",
+    "subtitle_1": "Sei un atleta, una squadra o un'organizzazione?",
+    "subtitle_2": "Possiamo aiutarti a cominciare subito la tua campagna di raccolta fondi!!",
+    "field_1": "Nome",
+    "field_2": "Contatto",
+    "field_3": "Organizzazione/Club",
+    "field_4": "Paese",
+    "field_5": "Come ci hai trovati?",
+    "field_6": "Descrizione",
+    "terms": "Accettò termini e condizioni",
+    "buttonSend": "Invia",
+    "buttonReset": "Reset"
+  },
+  "campaigns": {
+    "header": "Campagne attive:",
+    "showMore": "Mostra altro",
+    "funding": "Finanziamento (necessità di finanziamento)",
+    "softcap": "Cappello (minimo richiesto)",
+    "startingSoon": "Prossimamente",
+    "title_1": "Iscrivi 'Europa Point FC' alla UEFA",
+    "text_1": "20% dei guadagni UEFA e diritti di trasferimento dei prossimi tre anni",
+    "title_2": "Investi nella Zentro Basket Madrid – Club & Accademia",
+    "text_2": "Percentuale interessante dei guadagni dell'Accademia (da definire)",
+    "title_3": "Presto in arrivo - Futuro campione di tennis",
+    "text_3": "15% dei premi vinti nei prossimi 10 anni"
+  },
+  "supported": {
+    "header": "Globatalent è sostenuta da:",
+    "showMore": "Mostra altro",
+    "text_1": "Formula 1®",
+    "text_2": "Veterano della NBA",
+    "text_3": "Tennista",
+    "text_4": "Squadra e-Sports"
+  }
+}

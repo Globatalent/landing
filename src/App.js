@@ -7,7 +7,6 @@ import Campaigns from './components/Campaigns';
 import Supported from './components/Supported';
 import Footer from './components/Footer';
 import './i18n';
-import translation from './assets/locales/es.json';
 
 class App extends Component {
   render() {

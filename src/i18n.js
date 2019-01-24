@@ -3,6 +3,7 @@ import { reactI18nextModule } from "react-i18next";
 import LngDetector from "i18next-browser-languagedetector";
 import es from './assets/locales/es.json';
 import en from './assets/locales/en.json';
+import it from './assets/locales/it.json';
 
 i18n
   .use(LngDetector)
@@ -14,6 +15,9 @@ i18n
       },
       en: {
         translation: en
+      },
+      it: {
+        translation: it
       }
     },
     fallbackLng: "en",
