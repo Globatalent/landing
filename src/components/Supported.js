@@ -9,8 +9,8 @@ class Supported extends Component {
     return (
       <section className="section" style={{ backgroundColor: "#f7faff" }}>
         <header className="level">
-          <h2 className="title level-item is-4">Globatalent is supported by:</h2>
-          <a className="level-item is-size-6 has-text-weight-bold has-text-grey-light is-uppercase" href="https://web.globatalent.com" target="_blank" rel="noopener noreferrer">Show more</a>
+          <h2 className="title level-item is-4">{this.props.t('supported.header')}</h2>
+          <a className="level-item is-size-6 has-text-weight-bold has-text-grey-light is-uppercase" href="https://web.globatalent.com" target="_blank" rel="noopener noreferrer">{this.props.t('supported.showMore')}</a>
         </header>
 
         <div className="columns is-centered has-text-centered">
@@ -20,7 +20,7 @@ class Supported extends Component {
             </figure>
             <div>
               <h3 className="title is-5 has-text-weight-bold has-text-grey">Dani Clos</h3>
-              <h4 className="subtitle is-6 has-text-grey">Formula 1&reg;</h4>
+              <h4 className="subtitle is-6 has-text-grey">{this.props.t('supported.text_1')}</h4>
             </div>
           </div>
 
@@ -31,7 +31,7 @@ class Supported extends Component {
             </figure>
             <div>
               <h3 className="title is-5 has-text-weight-bold has-text-grey">Maurice Evans</h3>
-              <h4 className="subtitle is-6 has-text-grey">NBA veteran</h4>
+              <h4 className="subtitle is-6 has-text-grey">{this.props.t('supported.text_2')}</h4>
             </div>
           </div>
 
@@ -42,7 +42,7 @@ class Supported extends Component {
             </figure>
             <div>
               <h3 className="title is-5 has-text-weight-bold has-text-grey">João Sousa</h3>
-              <h4 className="subtitle is-6 has-text-grey">Tennis player</h4>
+              <h4 className="subtitle is-6 has-text-grey">{this.props.t('supported.text_3')}</h4>
             </div>
           </div>
 
@@ -53,7 +53,7 @@ class Supported extends Component {
             </figure>
             <div>
               <h3 className="title is-5 has-text-weight-bold has-text-grey">Splyce</h3>
-              <h4 className="subtitle is-6 has-text-grey">e-Sports team</h4>
+              <h4 className="subtitle is-6 has-text-grey">{this.props.t('supported.text_4')}</h4>
             </div>
           </div>
         </div>

@@ -14,21 +14,19 @@ class Footer extends Component {
           </figure>
         </section>
         <article className="column">
-          <h3 className="title is-6 has-text-white">About</h3>
-          <p>
-            Globatalent is the the first sports crypto exchange where you can tokenize, trade and support your favorite clubs and sports idols.
-        </p>
+          <h3 className="title is-6 has-text-white">{this.props.t('site.about.title')}</h3>
+          <p>{this.props.t('site.about.text')}</p>
         </article>
         <section className="column">
-          <h3 className="title is-6 has-text-white">Locations</h3>
+          <h3 className="title is-6 has-text-white">{this.props.t('site.locations.title')}</h3>
           <address>
-            London <br />
-            Buenos Aires <br />
-            1/F Knowles Building, HKU, Pokfulam Road, Hong Kong
-      </address>
+            {this.props.t('site.locations.location_1')}<br />
+            {this.props.t('site.locations.location_2')}<br />
+            {this.props.t('site.locations.location_3')}
+          </address>
         </section>
         <section className="column">
-          <h3 className="title is-6 has-text-white">Join our conversations</h3>
+          <h3 className="title is-6 has-text-white">{this.props.t('site.joinSocial')}</h3>
           <ul className="is-flex">
             <li><a href="https://www.facebook.com/globatalent.official" className="icon has-text-white"><FontAwesomeIcon icon={faFacebook} /></a></li>
             <li><a href="https://twitter.com/globatalent" className="icon has-text-white"><FontAwesomeIcon icon={faTwitter} /></a></li>
@@ -36,8 +34,8 @@ class Footer extends Component {
             <li><a href="https://t.me/globatalent/" className="icon has-text-white"><FontAwesomeIcon icon={faTelegram} /></a></li>
             <li><a href="https://linkedin.com/company/globatalent" className="icon has-text-white"><FontAwesomeIcon icon={faLinkedin} /></a></li>
           </ul>
-          <br/>
-          <small>&copy; {(new Date().getFullYear())} Globatalent, All rights reserved</small>
+          <br />
+          <small>&copy; {(new Date().getFullYear())} Globatalent</small>
         </section>
       </footer>
     )

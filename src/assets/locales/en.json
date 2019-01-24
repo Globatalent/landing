@@ -1,0 +1,65 @@
+{
+  "site": {
+    "nav": {
+    "url_1": "About",
+    "url_2": "Contact"
+    },
+    "title": "Tokenizing Sporting Talent",
+    "subtitle_1": "Sport revolution is here.",
+    "subtitle_2": "Join now to achieve extraordinaire earnings tokenizing future income of your favorite club or athlete!",
+    "about": {
+      "title": "About",
+      "text": "Globatalent is the the first sports crypto exchange where you can tokenize, trade and support your favorite clubs and sports idols."
+    },
+    "locations": {
+      "title": "Locations",
+      "location_1": "London",
+      "location_2": "Buenos Aires",
+      "location_3": "Hong Kong - 1/F Knowles Building, HKU, Pokfulam Road" 
+    },
+    "joinSocial": "Join our conversations"
+  },
+  "info": {
+    "title_1": "Exclusive platform",
+    "text_1": "Globatalent is a unique platform that will give you a new source of extraordinary income and innovate improving your engagement with fans all over the world.",
+    "title_2": "Share the profits",
+    "text_2": "Share your future profits with your fans and get future income now? Thanks to our Blockchain technology, it is possible!",
+    "title_3": "Tokenization",
+    "text_3": "You can tokenize any right, from a % of the future earnings in transfers between clubs, prize money, image rights... to access to a private social community and other perks, in exchange of receiving funding today."
+  },
+  "form": {
+    "title": "Looking for funds for your club or your sport career?",
+    "subtitle_1": "Are you an athlete, club or organization?",
+    "subtitle_2": "We can help you to start a campaign now!!",
+    "field_1": "Name",
+    "field_2": "Contact",
+    "field_3": "Organization/Club",
+    "field_4": "Country",
+    "field_5": "How did you find us?",
+    "field_6": "Description",
+    "terms": "I have read and agree to the terms and conditions",
+    "buttonSend": "Send",
+    "buttonReset": "Reset"
+  },
+  "campaigns": {
+    "header": "Active campaigns:",
+    "showMore": "Show more",
+    "funding": "Funding",
+    "softcap": "Softcap",
+    "startingSoon": "Starting soon",
+    "title_1": "Join Europa Point FC to UEFA",
+    "text_1": "20% of UEFA and transfer rights revenues for the next 3 years.",
+    "title_2": "Invest in Zentro Basket Madrid - Club & Academy",
+    "text_2": "Interesting (TBD) percentage of academy revenue.",
+    "title_3": "Coming Soon - Future tennis champion",
+    "text_3": "15% of prizes during 10 years."
+  },
+  "supported": {
+    "header": "Globatalent is supported by:",
+    "showMore": "Show more",
+    "text_1": "Formula 1®",
+    "text_2": "NBA veteran",
+    "text_3": "Tennis player",
+    "text_4": "e-Sports team"
+  }
+}

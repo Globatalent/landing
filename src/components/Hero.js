@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import hero from '../assets/img/hero.png';
 import logo from '../assets/img/logo.png';
 
-
 class Hero extends Component {
   render() {
     return (
@@ -29,10 +28,10 @@ class Hero extends Component {
           <div className="level-item"></div>
           <div id="navbarBurguer" className="navbar-menu level-item">
               <a className="navbar-item has-text-white" href="#about">
-                About
+              {this.props.t('site.nav.url_1')}
                 </a>
               <a className="navbar-item has-text-white" href="#contact">
-                Contact
+              {this.props.t('site.nav.url_2')}
                 </a>
           </div>
         </nav>
@@ -41,11 +40,12 @@ class Hero extends Component {
         <div className="hero-body">
           <div className="container has-text-centered">
             <h1 className="title has-text-white">
-              Tokenizing Sporting Talent
+              {this.props.t('site.title')}
       </h1>
             <h2 className="subtitle has-text-white">
-              Sport revolution is here.<br/>
-              Join now to achieve extraordinaire earnings tokenizing future income of your favorite club or athlete!
+            {this.props.t("site.subtitle_1")}
+            <br/>
+            {this.props.t("site.subtitle_2")}
       </h2>
           </div>
         </div>

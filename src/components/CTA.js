@@ -13,8 +13,8 @@ class CTA extends Component {
         <div className="column is-1"></div>
 
         <form className="column is-4" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST'>
-          <h2 className="title is-4">Looking for funds for your club or your sport career?</h2>
-          <p className="title is-6">Are you an athlete, club or organization? <br /> We can help you to start a campaign now!!</p>
+          <h2 className="title is-4">{this.props.t('form.title')}</h2>
+          <p className="title is-6">{this.props.t('form.subtitle_1')}<br/>{this.props.t('form.subtitle_2')}</p>
           <input type='hidden' name='xnQsjsdp' value='26ded01eee3cbb74693abaeee34e2f8acbb50ca314ea68813ba8b57665b4dc48' />
           <input type='hidden' name='zc_gad' id='zc_gad' value='' />
           <input type='hidden' name='xmIwtLD' value='902ae1508809b664f4a8880feb7226435ad252e90c524204e2b557a276287e3b' />
@@ -24,7 +24,7 @@ class CTA extends Component {
 
           <div className="field is-horizontal">
             <div className="field-label">
-              <label className="label">Name<span className="has-text-danger">*</span></label>
+              <label className="label">{this.props.t('form.field_1')}<span className="has-text-danger">*</span></label>
             </div>
             <div className="field-body">
             <div className="field">
@@ -43,7 +43,7 @@ class CTA extends Component {
 
           <div className="field is-horizontal">
             <div className="field-label">
-              <label className="label">Contact<span className="has-text-danger">*</span></label>
+              <label className="label">{this.props.t('form.field_2')}<span className="has-text-danger">*</span></label>
             </div>
             <div className="field-body">
             <div className="field">
@@ -62,7 +62,7 @@ class CTA extends Component {
 
           <div className="field is-horizontal">
             <div className="field-label">
-              <label className="label">Organization<span className="has-text-danger">*</span></label>
+              <label className="label">{this.props.t('form.field_3')}<span className="has-text-danger">*</span></label>
             </div>
             <div className="field-body">
             <div className="field">
@@ -75,7 +75,7 @@ class CTA extends Component {
 
           <div className="field is-horizontal">
             <div className="field-label">
-              <label className="label">How did you found us?</label>
+              <label className="label">{this.props.t('form.field_5')}</label>
             </div>
             <div className="field-body">
             <div className="field">
@@ -113,7 +113,7 @@ class CTA extends Component {
           </div>
 
           <div className="field">
-            <label className="label">Description<span className="has-text-danger">*</span></label>
+            <label className="label">{this.props.t('form.field_6')}<span className="has-text-danger">*</span></label>
             <div className="control">
               <textarea className="textarea" required placeholder="Tell us briefly how we can help you tokenize" name='Description' maxLength='32000'></textarea>
             </div>
@@ -123,17 +123,17 @@ class CTA extends Component {
             <div className="control">
               <label className="checkbox">
                 <input autoComplete='off' required type='checkbox' name='privacyTool' />
-                I agree to the <a href="#terms">terms and conditions</a>
+                <a href="#terms">{this.props.t('form.terms')}</a>
               </label>
             </div>
           </div>
 
           <div className="field is-grouped is-grouped-centered">
             <div className="control">
-              <input className="button is-link" id='formsubmit' type='submit' value='Submit' />
+              <input className="button is-link" id='formsubmit' type='submit' value={this.props.t('form.buttonSend')} />
             </div>
             <div className="control">
-              <input className="button is-text" type='reset' value='Reset' />
+              <input className="button is-text" type='reset' value={this.props.t('form.buttonReset')} />
             </div>
           </div>
         </form>

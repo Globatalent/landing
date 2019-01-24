@@ -1,0 +1,64 @@
+{
+  "site": {
+    "nav": {
+    "url_1": "Acerca de nosotros",
+    "url_2": "Contacto"
+    },
+    "title": "Tokenizando el talento deportivo",
+    "subtitle": "La revolución del mundo del deporte ya está aquí.<br>Únete para ser de los primeros en conseguir ingresos extraordinarios gracias a tokenizar derechos futuros de tu club o deportista.",
+    "about": {
+      "title": "Acerca de nosotros",
+      "text": "Globatalent es el primer exchange de criptomonedas donde puedes tokenizar, intercambiar y apoyar a tus clubes favoritos e ídolos deportivos"
+    },
+    "locations": {
+      "title": "Donde estamos",
+      "location_1": "Londres",
+      "location_2": "Buenos Aires",
+      "location_3": "Hong Kong - 1/F Knowles Building, HKU, Pokfulam Road" 
+    },
+    "joinSocial": "Unete a la conversación"
+  },
+  "info": {
+    "title_1": "Plataforma exclusiva",
+    "text_1": "Globatalent es una plataforma que te permitirá generar una nueva vía de ingresos extraordinariosn e innovar mejorando el engagement con tus fans del todo el mundo.",
+    "title_2": "Comparte el beneficio",
+    "text_2": "¿Compartir tus futuros beneficios con tus fans y adelantar ingresos futuros ahora? Gracias al blockchain es posible ahora.",
+    "title_3": "Tokenización",
+    "text_3": "Se puede tokenizar cualuier tipo de derecho, desde un % de los futuros ingresos por traspasos, derechos de imagen, premios de torneos, ticketing…hasta derecho a voto…a cambio de recibir financiación hoy."
+  },
+  "form": {
+    "title": "¿Buscas financiación para tu club deportivo o tu carrera deportiva?",
+    "subtitle_1": "¿Eres un deportista, club  u organización?",
+    "subtitle_2": "¡Podemos ayudarte a iniciar una campaña ahora!",
+    "field_1": "Nombre",
+    "field_2": "Contacto",
+    "field_3": "Organización/Club",
+    "field_4": "País",
+    "field_5": "¿Cómo nos has encontrado?",
+    "field_6": "Descripción",
+    "terms": "He leído y acepto los términos y condiciones y la política de privacidad",
+    "buttonSend": "Enviar",
+    "buttonReset": "Rehacer"
+  },
+  "campaigns": {
+    "header": "Campañas activas:",
+    "showMore": "Mostrar más",
+    "funding": "Necesidades de financiación",
+    "softcap": "Mínimo requerido",
+    "startingSoon": "Próximamente",
+    "title_1": "Únete al Europa point",
+    "text_1": "20% de los beneficios de UEFA y futuros traspasos de los próximos tres años",
+    "title_2": "Zentro Basket Madrid - Club y Academia",
+    "text_2": "Atractivo porcentaje de los beneficios de la academia",
+    "title_3": "Muy Pronto - Futuro campeón de Tenis",
+    "text_3": "15% de los premios obtenidos durante los próximos 10 años"
+  },
+  "supported": {
+    "header": "Globatalent es apoyado por:",
+    "showMore": "Mostrar más",
+    "text_1": "Formula 1®",
+    "text_2": "Veterano de la NBA",
+    "text_3": "Jugador de tennis",
+    "text_4": "Equipo de e-Sports"
+  }
+}
