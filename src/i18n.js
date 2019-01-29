@@ -4,6 +4,8 @@ import LngDetector from "i18next-browser-languagedetector";
 import es from './assets/locales/es.json';
 import en from './assets/locales/en.json';
 import it from './assets/locales/it.json';
+import de from './assets/locales/de.json';
+import pt from './assets/locales/pt.json';
 
 i18n
   .use(LngDetector)
@@ -18,6 +20,12 @@ i18n
       },
       it: {
         translation: it
+      },
+      de: {
+        translation: de
+      },
+      pt: {
+        translation: pt
       }
     },
     fallbackLng: "en",
