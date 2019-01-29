@@ -10,7 +10,6 @@ import './i18n';
 
 class App extends Component {
   render() {
-    console.log(this.props)
     return (
       <div>
         <Hero t={this.props.t}/>

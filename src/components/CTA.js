@@ -73,7 +73,7 @@ class CTA extends Component {
             </div>
           </div>
 
-          <div className="field is-horizontal">
+          {/* <div className="field is-horizontal">
             <div className="field-label">
               <label className="label">{this.props.t('form.field_5')}</label>
             </div>
@@ -82,7 +82,7 @@ class CTA extends Component {
               <div className="control">
               <div className="select is-fullwidth">
                 <select name='Lead Source'>
-                  <option value='-None-'>-None-</option>
+                  <option value='-None-'>------</option>
                   <option value='Advertisement'>Advertisement</option>
                   <option value='Affiliate&#x20;Partner'>Affiliate Partner</option>
                   <option value='Chat'>Chat</option>
@@ -110,10 +110,10 @@ class CTA extends Component {
               </div>
             </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="field">
-            <label className="label">{this.props.t('form.field_6')}<span className="has-text-danger">*</span></label>
+            <label className="label">{this.props.t('form.field_5')}<span className="has-text-danger">*</span></label>
             <div className="control">
               <textarea className="textarea" required placeholder="Tell us briefly how we can help you tokenize" name='Description' maxLength='32000'></textarea>
             </div>
@@ -123,7 +123,7 @@ class CTA extends Component {
             <div className="control">
               <label className="checkbox">
                 <input autoComplete='off' required type='checkbox' name='privacyTool' />
-                <a href="#terms">{this.props.t('form.terms')}</a>
+                <a href="https://market.globatalent.com/terms" rel="noopener noreferrer" target="_blank">{this.props.t('form.terms')}</a>
               </label>
             </div>
           </div>
@@ -137,7 +137,6 @@ class CTA extends Component {
             </div>
           </div>
         </form>
-
       </section>
 
     )

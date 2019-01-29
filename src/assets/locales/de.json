@@ -1,0 +1,73 @@
+{
+  "site": {
+    "nav": {
+    "url_1": "Über uns",
+    "url_2": "Kontakt"
+    },
+    "title": "Werbung für sportliche Talente",
+    "subtitle_1": "Die Sportrevolution ist angekommen.",
+    "subtitle_2": "Schließen Sie sich jetzt an, um außerordentliche Einnahmen zu erzielen, die das zukünftige Einkommen Ihres Lieblingsvereins oder Athleten ausdrücken!",
+    "about": {
+      "title": "Über uns",
+      "text": "Globatalent ist die erste Crypto-Börse für Sportarten, bei der Sie Ihre Lieblingsclubs und Sportidole kennzeichnen, handeln und unterstützen können."
+    },
+    "locations": {
+      "title": "Stelle",
+      "location_1": {
+       "city": "London",
+       "direction": ""       
+      },
+      "location_2": {
+      "city": "Buenos Aires",
+      "direction": ""
+      },
+      "location_3": {
+        "city": "Hong Kong",
+        "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+      }  
+    },
+    "joinSocial": "Nehmen Sie an unseren Gesprächen teil"
+  },
+  "info": {
+    "title_1": "Exklusive Plattform",
+    "text_1": "Globatalent ist eine einzigartige Plattform, die Ihnen eine neue Quelle für außerordentliche Einnahmen bietet und innovativ ist, um Ihr Engagement für Fans auf der ganzen Welt zu verbessern.",
+    "title_2": "Teilen Sie die Vorteile",
+    "text_2": "Teilen Sie Ihre zukünftigen Gewinne mit Ihren Fans und erhalten Sie zukünftige Einnahmen jetzt? Dank unserer Blockchain-Technologie ist es möglich!",
+    "title_3": "Tokenisierung",
+    "text_3": "Sie können jedes Recht, von einem Prozentsatz des zukünftigen Gewinns an Transfers zwischen Clubs, Preisgeldern, Bildrechten.... auf den Zugang zu einer privaten sozialen Gemeinschaft und anderen Vergünstigungen, im Austausch dafür, dass Sie heute Geld erhalten, ausgeben."
+  },
+  "form": {
+    "title": "Sie suchen Geld für Ihren Verein oder Ihre Sportkarriere?",
+    "subtitle_1": "Sind Sie ein Athlet, Verein oder eine Organisation?",
+    "subtitle_2": "Wir können Ihnen helfen, jetzt eine Kampagne zu starten.",
+    "field_1": "Name",
+    "field_2": "Kontakt",
+    "field_3": "Unternehmen",
+    "field_4": "Land",
+    "field_5": "Beschreibung",
+    "terms": "Ich akzeptiere die Allgemeinen Geschäftsbedingungen",
+    "buttonSend": "Absenden",
+    "buttonReset": "Zurücksetzen"
+  },
+  "campaigns": {
+    "header": "Aktive Kampagnen:",
+    "showMore": "Zeig mehr",
+    "funding": "Finanzierung (Finanzierungsbedarf)",
+    "softcap": "Softcap (Minimum erforderlich)",
+    "startingSoon": "Beginnt bald",
+    "title_1": "Schließen Sie sich Europa Point FC der UEFA an.",
+    "text_1": "20% der Einnahmen aus UEFA- und Übertragungsrechten für die nächsten 3 Jahre",
+    "title_2": "Investieren Sie in Zentro Basket Madrid - Club & Akademie",
+    "text_2": "Interessanter (TBD) Anteil am Akademieumsatz.",
+    "title_3": "Demnächst verfügbar - Zukünftiger Tennis-Champion",
+    "text_3": "15% der Preise während 10 Jahren"
+  },
+  "supported": {
+    "header": "Globatalent wird unterstützt von:",
+    "showMore": "Zeig mehr",
+    "text_1": "Formula 1®",
+    "text_2": "NBA-Veteran",
+    "text_3": "Tennisspieler",
+    "text_4": "e-Sports team"
+  }
+}

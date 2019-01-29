@@ -20,9 +20,12 @@ class Footer extends Component {
         <section className="column">
           <h3 className="title is-6 has-text-white">{this.props.t('site.locations.title')}</h3>
           <address>
-            {this.props.t('site.locations.location_1')}<br />
-            {this.props.t('site.locations.location_2')}<br />
-            {this.props.t('site.locations.location_3')}
+            {this.props.t('site.locations.location_1.city')}<br/>
+            {this.props.t('site.locations.location_1.direction')}<br/>
+            {this.props.t('site.locations.location_2.city')}<br/>
+            {this.props.t('site.locations.location_2.direction')}<br/>
+            {this.props.t('site.locations.location_3.city')}<br/>
+            <small>{this.props.t('site.locations.location_3.direction')}</small><br/>
           </address>
         </section>
         <section className="column">

@@ -13,9 +13,18 @@
     },
     "locations": {
       "title": "Donde estamos",
-      "location_1": "Londres",
-      "location_2": "Buenos Aires",
-      "location_3": "Hong Kong - 1/F Knowles Building, HKU, Pokfulam Road" 
+      "location_1": {
+      "city": "Londres",
+      "direction": ""
+      } ,
+      "location_2": {
+        "city": "Buenos Aires",
+        "direction": ""
+      } ,
+      "location_3": {
+        "city": "Hong Kong",
+        "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+      }
     },
     "joinSocial": "Unete a la conversación"
   },
@@ -35,8 +44,7 @@
     "field_2": "Contacto",
     "field_3": "Organización/Club",
     "field_4": "País",
-    "field_5": "¿Cómo nos has encontrado?",
-    "field_6": "Descripción",
+    "field_5": "Descripción",
     "terms": "He leído y acepto los términos y condiciones y la política de privacidad",
     "buttonSend": "Enviar",
     "buttonReset": "Rehacer"
