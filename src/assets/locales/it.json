@@ -36,15 +36,48 @@
     "title_3": "Monetizzazione",
     "text_3": "Puoi monetizzare qualunque diritto, da una percentuale dei guadagni futuri per i trasferimenti tra club, premi in denaro, diritti di immagine... all'accesso a comunità private e altre gratifiche, in cambio riceverai subito dei fondi."
   },
+
   "form": {
     "title": "Cerchi dei fondi per la tua squadra o per la tua carriera sportiva?",
     "subtitle_1": "Sei un atleta, una squadra o un'organizzazione?",
     "subtitle_2": "Possiamo aiutarti a cominciare subito la tua campagna di raccolta fondi!!",
-    "field_1": "Nome",
-    "field_2": "Contatto",
-    "field_3": "Organizzazione/Club",
-    "field_4": "Paese",
-    "field_5": "Descrizione",
+    "field_1": {
+      "title": "Nome",
+      "help_1": "First name (Required)",
+      "help_2": "Last name (Optional)"
+    },
+    "field_2": {
+      "title": "Contatto",
+      "help_1": "Email (Required)",
+      "help_2": "Phone (Optional)"
+    },
+    "field_3": {
+      "title": "Organizzazione/Club",
+      "help": "Club or athlete name (Required)"
+    },
+    "field_4": {
+      "title": "Paese",
+      "help": "Where is the athleted or organization located?"
+    },
+    "field_5": {
+      "title": "Descrizione",
+      "help": "Tell us briefly how can we help you achieve your goals"
+    } ,
+    "field_6": {
+      "title": "Sport",
+      "option_1": "e-Sports",
+      "option_2": "Baseball",
+      "option_3": "Basketball",
+      "option_4": "Cricket",
+      "option_5": "Cycling",
+      "option_6": "F1",
+      "option_7": "Fighters",
+      "option_8": "Football",
+      "option_9": "Moto GP",
+      "option_10": "Soccer",
+      "option_11": "Tennis",
+      "option_12": "Triathlon"
+    },
     "terms": "Accettò termini e condizioni",
     "buttonSend": "Invia",
     "buttonReset": "Reset"

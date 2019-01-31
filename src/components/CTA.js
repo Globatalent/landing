@@ -6,15 +6,15 @@ class CTA extends Component {
     return (
       <section id="contact" className="section columns is-medium is-vcentered is-paddingless" style={{ backgroundColor: "#f7faff" }}>
         <div className="image is-half column is-paddingless">
-        <figure className="image">
-          <img src={cta} alt="" />
-        </figure>
+          <figure className="image">
+            <img src={cta} alt="" />
+          </figure>
         </div>
         <div className="column is-1"></div>
 
         <form className="column is-4" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST'>
           <h2 className="title is-4">{this.props.t('form.title')}</h2>
-          <p className="title is-6">{this.props.t('form.subtitle_1')}<br/>{this.props.t('form.subtitle_2')}</p>
+          <p className="title is-6">{this.props.t('form.subtitle_1')}<br />{this.props.t('form.subtitle_2')}</p>
           <input type='hidden' name='xnQsjsdp' value='26ded01eee3cbb74693abaeee34e2f8acbb50ca314ea68813ba8b57665b4dc48' />
           <input type='hidden' name='zc_gad' id='zc_gad' value='' />
           <input type='hidden' name='xmIwtLD' value='902ae1508809b664f4a8880feb7226435ad252e90c524204e2b557a276287e3b' />
@@ -24,98 +24,101 @@ class CTA extends Component {
 
           <div className="field is-horizontal">
             <div className="field-label">
-              <label className="label">{this.props.t('form.field_1')}<span className="has-text-danger">*</span></label>
+              <label className="label">{this.props.t('form.field_1.title')}<span className="has-text-danger">*</span></label>
             </div>
             <div className="field-body">
-            <div className="field">
-              <div className="control">
-                <input className="input" required type="text" placeholder="First name (Required)" maxLength='40' name='First Name' />
+              <div className="field">
+                <div className="control">
+                  <input className="input" required type="text" placeholder={this.props.t('form.field_1.help_1')} maxLength='40' name='First Name' />
+                </div>
               </div>
-            </div>
 
-            <div className="field">
-              <div className="control">
-                <input className="input" required type="text" placeholder="Last name (Required)" maxLength='80' name='Last Name' />
+              <div className="field">
+                <div className="control">
+                  <input className="input" required type="text" placeholder={this.props.t('form.field_1.help_2')} maxLength='80' name='Last Name' />
+                </div>
               </div>
-            </div>
             </div>
           </div>
 
           <div className="field is-horizontal">
             <div className="field-label">
-              <label className="label">{this.props.t('form.field_2')}<span className="has-text-danger">*</span></label>
+              <label className="label">{this.props.t('form.field_2.title')}<span className="has-text-danger">*</span></label>
             </div>
             <div className="field-body">
-            <div className="field">
-              <div className="control">
-              <input className="input" required type="email" maxLength='100' name='Email' placeholder="Email (Required)" />
+              <div className="field">
+                <div className="control">
+                  <input className="input" required type="email" maxLength='100' name='Email' placeholder={this.props.t('form.field_2.help_1')} />
+                </div>
               </div>
-            </div>
 
-            <div className="field">
-              <div className="control">
-              <input className="input" type="tel" placeholder="Phone (Optional)" maxLength='30' name='Phone' />
+              <div className="field">
+                <div className="control">
+                  <input className="input" type="tel" placeholder={this.props.t('form.field_2.help_2')} maxLength='30' name='Phone' />
+                </div>
               </div>
-            </div>
             </div>
           </div>
 
           <div className="field is-horizontal">
             <div className="field-label">
-              <label className="label">{this.props.t('form.field_3')}<span className="has-text-danger">*</span></label>
+              <label className="label">{this.props.t('form.field_3.title')}<span className="has-text-danger">*</span></label>
             </div>
             <div className="field-body">
-            <div className="field">
-              <div className="control">
-              <input className="input" required type="text" placeholder="Club or athlete name (Required)" maxLength='100' name='Company' />
+              <div className="field">
+                <div className="control">
+                  <input className="input" required type="text" placeholder={this.props.t('form.field_3.help')} maxLength='100' name='Company' />
+                </div>
               </div>
-            </div>
             </div>
           </div>
 
-          {/* <div className="field is-horizontal">
+          <div className="field is-horizontal">
             <div className="field-label">
-              <label className="label">{this.props.t('form.field_5')}</label>
+              <label className="label">{this.props.t('form.field_4.title')}<span className="has-text-danger">*</span></label>
             </div>
             <div className="field-body">
-            <div className="field">
-              <div className="control">
-              <div className="select is-fullwidth">
-                <select name='Lead Source'>
-                  <option value='-None-'>------</option>
-                  <option value='Advertisement'>Advertisement</option>
-                  <option value='Affiliate&#x20;Partner'>Affiliate Partner</option>
-                  <option value='Chat'>Chat</option>
-                  <option value='Cold&#x20;Call'>Cold Call</option>
-                  <option value='Employee&#x20;Referral'>Employee Referral</option>
-                  <option value='External&#x20;Referral'>External Referral</option>
-                  <option value='GBT&#x20;Web&#x20;site'>GBT Web site</option>
-                  <option value='Seminar&#x20;Partner'>Seminar Partner</option>
-                  <option value='Trade&#x20;Show'>Trade Show</option>
-                  <option value='Web&#x20;Download'>Web Download</option>
-                  <option value='Ferran'>Ferran</option>
-                  <option value='Sunil'>Sunil</option>
-                  <option value='I&ntilde;aki'>I&ntilde;aki</option>
-                  <option value='Gaby'>Gaby</option>
-                  <option value='Felix&#x20;Angel'>Felix Angel</option>
-                  <option value='Titan'>Titan</option>
-                  <option value='Hugo&#x20;Costa'>Hugo Costa</option>
-                  <option value='Nicolas'>Nicolas</option>
-                  <option value='Fede'>Fede</option>
-                  <option value='Facebook'>Facebook</option>
-                  <option value='Twitter'>Twitter</option>
-                  <option value='Google&#x2b;'>Google&#x2b;</option>
-                </select>
-              </div>
+              <div className="field">
+                <div className="control">
+                  <input className="input" required type="text" placeholder={this.props.t('form.field_4.help')} maxLength='100' name='Country' />
+                </div>
               </div>
             </div>
+          </div>
+
+          <div className="field is-horizontal">
+            <div className="field-label">
+              <label className="label">{this.props.t('form.field_6.title')}<span className="has-text-danger">*</span></label>
             </div>
-          </div> */}
+            <div className="field-body">
+              <div className="field">
+                <div className="control">
+                  <div className="select is-fullwidth">
+                    <select name='Industry'>
+                      <option value='-None-'>-None-</option>
+                      <option value={this.props.t('form.field_6.option_1')}>{this.props.t('form.field_6.option_1')}</option>
+                      <option value={this.props.t('form.field_6.option_2')}>{this.props.t('form.field_6.option_2')}</option>
+                      <option value={this.props.t('form.field_6.option_3')}>{this.props.t('form.field_6.option_3')}</option>
+                      <option value={this.props.t('form.field_6.option_4')}>{this.props.t('form.field_6.option_4')}</option>
+                      <option value={this.props.t('form.field_6.option_5')}>{this.props.t('form.field_6.option_5')}</option>
+                      <option value={this.props.t('form.field_6.option_6')}>{this.props.t('form.field_6.option_6')}</option>
+                      <option value={this.props.t('form.field_6.option_7')}>{this.props.t('form.field_6.option_7')}</option>
+                      <option value={this.props.t('form.field_6.option_8')}>{this.props.t('form.field_6.option_8')}</option>
+                      <option value={this.props.t('form.field_6.option_9')}>{this.props.t('form.field_6.option_9')}</option>
+                      <option value={this.props.t('form.field_6.option_10')}>{this.props.t('form.field_6.option_10')}</option>
+                      <option value={this.props.t('form.field_6.option_11')}>{this.props.t('form.field_6.option_11')}</option>
+                      <option value={this.props.t('form.field_6.option_12')}>{this.props.t('form.field_6.option_12')}</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
           <div className="field">
-            <label className="label">{this.props.t('form.field_5')}<span className="has-text-danger">*</span></label>
+            <label className="label">{this.props.t('form.field_5.title')}<span className="has-text-danger">*</span></label>
             <div className="control">
-              <textarea className="textarea" required placeholder="Tell us briefly how we can help you tokenize" name='Description' maxLength='32000'></textarea>
+              <textarea className="textarea" required placeholder={this.props.t('form.field_5.help')} name='Description' maxLength='32000'></textarea>
             </div>
           </div>
 

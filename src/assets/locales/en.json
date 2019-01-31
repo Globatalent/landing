@@ -40,11 +40,43 @@
     "title": "Looking for funds for your club or your sport career?",
     "subtitle_1": "Are you an athlete, club or organization?",
     "subtitle_2": "We can help you to start a campaign now!!",
-    "field_1": "Name",
-    "field_2": "Contact",
-    "field_3": "Organization/Club",
-    "field_4": "Country",
-    "field_5": "Description",
+    "field_1": {
+      "title": "Name",
+      "help_1": "First name (Required)",
+      "help_2": "Last name (Optional)"
+    },
+    "field_2": {
+      "title": "Contact",
+      "help_1": "Email (Required)",
+      "help_2": "Phone (Optional)"
+    },
+    "field_3": {
+      "title": "Organization/Club",
+      "help": "Club or athlete name (Required)"
+    },
+    "field_4": {
+      "title": "Country",
+      "help": "Where is the athleted or organization located?"
+    },
+    "field_5": {
+      "title": "Description",
+      "help": "Tell us briefly how can we help you achieve your goals"
+    } ,
+    "field_6": {
+      "title": "Sport",
+      "option_1": "e-Sports",
+      "option_2": "Baseball",
+      "option_3": "Basketball",
+      "option_4": "Cricket",
+      "option_5": "Cycling",
+      "option_6": "F1",
+      "option_7": "Fighters",
+      "option_8": "Football",
+      "option_9": "Moto GP",
+      "option_10": "Soccer",
+      "option_11": "Tennis",
+      "option_12": "Triathlon"
+    },
     "terms": "I have read and agree to the terms and conditions",
     "buttonSend": "Send",
     "buttonReset": "Reset"

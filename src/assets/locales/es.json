@@ -40,11 +40,43 @@
     "title": "¿Buscas financiación para tu club deportivo o tu carrera deportiva?",
     "subtitle_1": "¿Eres un deportista, club  u organización?",
     "subtitle_2": "¡Podemos ayudarte a iniciar una campaña ahora!",
-    "field_1": "Nombre",
-    "field_2": "Contacto",
-    "field_3": "Organización/Club",
-    "field_4": "País",
-    "field_5": "Descripción",
+    "field_1": {
+      "title": "Nombre",
+      "help_1": "Nombre (Requerido)",
+      "help_2": "Apellido (Opcional)"
+    },
+    "field_2": {
+      "title": "Contacto",
+      "help_1": "Email (Requerido)",
+      "help_2": "Teléfono (Opcional)"
+    },
+    "field_3": {
+      "title": "Organizacion/Club",
+      "help": "Nombre del club o atleta"
+    },
+    "field_4": {
+      "title": "País",
+      "help": "¿De donde es el atleta o club?"
+    },
+    "field_5": {
+      "title": "Descripción",
+      "help": "Dinos brevemente cómo podemos ayudarte a alcanzar tus metas"
+    },
+    "field_6": {
+      "title": "Deporte",
+      "option_1": "e-Sports",
+      "option_2": "Baseball",
+      "option_3": "Basketball",
+      "option_4": "Cricket",
+      "option_5": "Cycling",
+      "option_6": "F1",
+      "option_7": "Fighters",
+      "option_8": "Football",
+      "option_9": "Moto GP",
+      "option_10": "Soccer",
+      "option_11": "Tennis",
+      "option_12": "Triathlon"
+    },
     "terms": "He leído y acepto los términos y condiciones y la política de privacidad",
     "buttonSend": "Enviar",
     "buttonReset": "Rehacer"

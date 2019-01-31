@@ -36,19 +36,53 @@
     "title_3": "Tokenização",
     "text_3": "Poderá tokenizar qualquer direito, desde uma % dos ganhos futuros em transferências entre clubes, prémios, direitos de imagem... Para aceder a uma comunidade social privada, junto com outros benefícios, em troca do seu financiamento hoje."
   },
+
   "form": {
     "title": "Procura fundos para o seu clube ou carreira desportiva?",
     "subtitle_1": "É um desportista, clube ou organização?",
     "subtitle_2": "Podemos ajudá-lo a iniciar uma campanha agora!!",
-    "field_1": "Nome",
-    "field_2": "Contacto",
-    "field_3": "Organização",
-    "field_4": "País",
-    "field_5": "Descrição",
+    "field_1": {
+      "title": "Nome",
+      "help_1": "First name (Required)",
+      "help_2": "Last name (Optional)"
+    },
+    "field_2": {
+      "title": "Contacto",
+      "help_1": "Email (Required)",
+      "help_2": "Phone (Optional)"
+    },
+    "field_3": {
+      "title": "Organização",
+      "help": "Club or athlete name (Required)"
+    },
+    "field_4": {
+      "title": "País",
+      "help": "Where is the athleted or organization located?"
+    },
+    "field_5": {
+      "title": "Descrição",
+      "help": "Tell us briefly how can we help you achieve your goals"
+    } ,
+    "field_6": {
+      "title": "Sport",
+      "option_1": "e-Sports",
+      "option_2": "Baseball",
+      "option_3": "Basketball",
+      "option_4": "Cricket",
+      "option_5": "Cycling",
+      "option_6": "F1",
+      "option_7": "Fighters",
+      "option_8": "Football",
+      "option_9": "Moto GP",
+      "option_10": "Soccer",
+      "option_11": "Tennis",
+      "option_12": "Triathlon"
+    },
     "terms": "Concordo com os termos e condições",
     "buttonSend": "Enviar",
     "buttonReset": "Reset"
   },
+
   "campaigns": {
     "header": "Campanhas ativas:",
     "showMore": "Mostre mais",
