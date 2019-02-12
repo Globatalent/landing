@@ -1,0 +1,60 @@
+{
+  "site": {
+    "nav": {
+    "url_1": "handla om",
+    "url_2": "Kontakta"
+    },
+    "title": "Den första sport kryto-handeln där du kan handla och stödja dina favoritklubbar och sportidoler",
+    "cta": {
+      "title": "Registrera dig och få",
+      "bold": "5USD*",
+      "button": "Registrera"
+    },
+    "about": {
+      "title": "handla om",
+      "text": "globatalent är Den första sport kryto-handeln där du kan handla och stödja dina favoritklubbar och sportidoler."
+    },
+    "locations": {
+      "title": "Platser",
+      "location_1": {
+        "city": "London",
+        "direction": ""
+      },
+      "location_2": {
+        "city": "Buenos Aires",
+        "direction": ""
+      },
+      "location_3": {
+        "city": "Hong Kong",
+        "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+      } 
+    },
+    "joinSocial": "Gå med i våra konversationer"
+  },
+  "info": {
+    "title": "Registrera dig och var den första som får information om klubbar och idrottare som går med i Globatalent revolutionen.",
+    "small": "Belöningar kan endast användas för att betala för transaktions- och uttagsavgifter och kan inte återbetalas. "
+  },
+  
+  "campaigns": {
+    "header": "Kommande kampanjer:",
+    "showMore": "Visa mer",
+    "funding": "Finansiering",
+    "softcap": "Minimum gräns",
+    "startingSoon": "Börjar snart ",
+    "title_1": "Kommer snart - Framtida tennismästare",
+    "text_1": "20% av hans dubbla prispengarinkomst från 1 januari 2021 till december 2030. ",
+    "title_2": "Träffa nästa WTA-stjärna",
+    "text_2": "15% inkomst under de närmaste 7 åren ",
+    "title_3": "Kommer snart en knuff mot Uefa",
+    "text_3": ""
+  },
+  "supported": {
+    "header": "Globalt stöttade AV:",
+    "showMore": "Visa mer",
+    "text_1": "F1®",
+    "text_2": "NBA veteran",
+    "text_3": "Tennisspelare",
+    "text_4": "e-sportlag"
+  }
+}

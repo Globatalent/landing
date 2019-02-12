@@ -37,7 +37,7 @@
   },
   
   "campaigns": {
-    "header": "Active campaigns:",
+    "header": "Upcoming campaigns:",
     "showMore": "Show more",
     "funding": "Funding",
     "softcap": "Softcap",
