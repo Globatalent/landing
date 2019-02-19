@@ -37,16 +37,19 @@
     "text_3": "Se puede tokenizar cualuier tipo de derecho, desde un % de los futuros ingresos por traspasos, derechos de imagen, premios de torneos, ticketing…hasta derecho a voto…a cambio de recibir financiación hoy."
   },
   "form": {
-    "title": "¿Buscas financiación para tu club deportivo o tu carrera deportiva?",
+    "title": "¿Buscas financiación para tu",
+    "title2": "club deportivo o tu carrera deportiva",
     "subtitle_1": "¿Eres un deportista, club  u organización?",
     "subtitle_2": "¡Podemos ayudarte a iniciar una campaña ahora!",
     "field_1": {
       "title": "Nombre",
+      "title2": "Apellidos",
       "help_1": "Nombre (Requerido)",
       "help_2": "Apellido (Opcional)"
     },
     "field_2": {
       "title": "Contacto",
+      "title2": "Teléfono",
       "help_1": "Email (Requerido)",
       "help_2": "Teléfono (Opcional)"
     },
