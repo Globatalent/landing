@@ -6,7 +6,7 @@ import img_3 from '../assets/img/img_3.png'
 class Info extends Component {
   render() {
     return (
-      <section id="about" className="section is-centered columns" style={{paddingTop: "1.5rem"}}>
+      <section id="about" className="section is-centered columns" style={{paddingTop: "1.5rem", marginTop: "-6rem"}}>
         <article className="column is-3">
           <figure className="image is-128x128" style={{margin: "auto"}}>
             <img src={img_1} alt="Globatalent is a unique platform that give you the chance to interact with your fans in unique ways" />
