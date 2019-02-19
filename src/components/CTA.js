@@ -13,7 +13,7 @@ class CTA extends Component {
           </figure>
         </div>
         <form className="column" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST' style={{backgroundColor: '#0a58a3'}}>
-          <h2 className="title is-4 form-title">{this.props.t('form.title')} <strong>{this.props.t('form.title2')}</strong>?</h2>
+          <h2 className="title is-4 form-title">{this.props.t('form.title')}</h2>
           <div className="title is-4 has-text-centered text-centered">
             <figure className="image is-64x64 logo-subtitle" style={{marginRight: '1rem'}}>
               <img src={logo} alt="" />
