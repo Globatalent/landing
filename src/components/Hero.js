@@ -6,7 +6,7 @@ class Hero extends Component {
   render() {
     return (
       <section className="hero is-medium" style={{
-        backgroundImage: " linear-gradient( rgba(0,0,0,0.5),  rgba(0,0,0,0.3)) ,url(" + hero + ")",
+        backgroundImage: " linear-gradient( rgba(0,0,0,0.3),  rgba(0,0,0,0.2)) ,url(" + hero + ")",
         backgroundPosition: 'center center',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover'
@@ -28,10 +28,10 @@ class Hero extends Component {
             <div className="level-item"></div>
             <div id="navbarBurguer" className="navbar-menu level-item">
               <a className="navbar-item has-text-white" href="#about">
-                {this.props.t('site.nav.url_1')}
+              <span class="cube"></span> {this.props.t('site.nav.url_1')}
               </a>
               <a className="navbar-item has-text-white" href="#contact">
-                {this.props.t('site.nav.url_2')}
+              <span class="cube"></span> {this.props.t('site.nav.url_2')}
               </a>
             </div>
           </nav>
