@@ -1,0 +1,83 @@
+.form-title {
+    background-color: rgb(134, 208, 247);
+    color: rgb(10, 88, 163) !important;
+    font-weight: lighter !important;
+    text-align: center;
+    padding: 24px 2px;
+}
+
+.form-title strong {
+    font-weight: bold !important;
+}
+
+.column {
+    padding-top: 0 !important;
+    padding-left: 0 !important;
+}
+
+.inputs-container {
+    padding: 20px 7%;
+}
+
+.field-label {
+    text-align: center !important;
+    background-color: rgb(134, 208, 247);
+    margin-right: 0 !important;
+    margin-left: 20px;
+}
+
+.input, .select select, textarea {
+    border-radius: 0 !important;
+    border-bottom-right-radius: 15px !important;
+    border-top-right-radius: 15px !important;
+}
+
+.label {
+    color: rgb(10, 88, 163) !important;
+    text-transform: uppercase;
+    padding-top: 8px;
+}
+
+.image.logo-subtitle {
+    display: inline-block !important;
+}
+
+.form-subtitle {
+    display: inline-block !important;
+    color: rgb(134, 208, 247);
+}
+
+.form-subtitle span {
+    font-size: 18px;
+}
+
+.field-body {
+    flex-grow: 4 !important;
+}
+
+.two-per-row .field-body {
+    flex-grow: 1.5 !important;
+}
+
+.checkbox {
+    margin-left: 20px;
+}
+
+.checkbox input {
+    margin-right: 5px;
+}
+
+.checkbox a {
+    color: rgb(134, 208, 247);
+}
+
+.form-button {
+    background-color: #fff !important;
+    color: rgb(10, 88, 163) !important;
+    text-decoration: none !important;
+    border-radius: 14px !important;
+}
+
+.form-button:hover {
+    background-color: rgb(134, 208, 247) !important;
+}
