@@ -1,20 +1,24 @@
 import React, { Component } from "react";
 import cta from '../assets/img/cta.png'
+import logo from '../assets/img/logo--small.png'
 
 class CTA extends Component {
   render() {
     return (
-      <section id="contact" className="section columns is-medium is-vcentered is-paddingless" style={{ backgroundColor: "#f7faff" }}>
-        <div className="image is-half column is-paddingless">
+      <section id="contact" className="section columns is-medium is-vcentered is-paddingless">
+        <div className="image is-5 column is-paddingless">
           <figure className="image">
             <img src={cta} alt="" />
           </figure>
         </div>
-        <div className="column is-1"></div>
-
-        <form className="column is-4" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST'>
-          <h2 className="title is-4">{this.props.t('form.title')}</h2>
-          <p className="title is-6">{this.props.t('form.subtitle_1')}<br />{this.props.t('form.subtitle_2')}</p>
+        <form className="column" action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads3718183000000277001' method='POST' style={{backgroundColor: '#0a58a3'}}>
+          <h2 className="title is-4" style={{ backgroundColor: 'blue' }}>{this.props.t('form.title')}</h2>
+          <div className="title is-4 has-text-centered is-flex">
+            <figure className="image is-64x64" style={{marginRight: '1rem'}}>
+              <img src={logo} alt="" />
+            </figure>
+            <p>{this.props.t('form.subtitle_1')}<br />{this.props.t('form.subtitle_2')}</p>
+          </div>
           <input type='hidden' name='xnQsjsdp' value='26ded01eee3cbb74693abaeee34e2f8acbb50ca314ea68813ba8b57665b4dc48' />
           <input type='hidden' name='zc_gad' id='zc_gad' value='' />
           <input type='hidden' name='xmIwtLD' value='902ae1508809b664f4a8880feb7226435ad252e90c524204e2b557a276287e3b' />

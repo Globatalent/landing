@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-$footer-background-color: #3359a0;
-
 @import 'bulma/bulma.sass';
 
 @font-face {
@@ -11,8 +9,4 @@ $footer-background-color: #3359a0;
   
 body {
   font-family: "Aller"
-}
-
-.regular--font {
-  font-style: normal;
 }

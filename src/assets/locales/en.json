@@ -15,7 +15,7 @@
       "title": "Locations",
       "location_1": {
         "city": "London",
-        "direction": ""
+        "direction": "GLOBATALENT, Berkeley Suite, 35 Berkeley Square, Mayfair, London, W1J 5BF,UK"
       },
       "location_2": {
         "city": "Buenos Aires",
@@ -23,7 +23,7 @@
       },
       "location_3": {
         "city": "Hong Kong",
-        "direction": "Hong Kong - 1/F Knowles Building, HKU, Pokfulam Road"
+        "direction": "1/F Knowles Building, HKU, Pokfulam Road"
       } 
     },
     "joinSocial": "Join our conversations"
