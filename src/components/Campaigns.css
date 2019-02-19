@@ -1,15 +1,15 @@
 
 
-		/* .cube {
-			background-image: url('img/cubo.png');
+		.cube {
+			background-image: url('../assets/img/cube.png');
 			background-size: cover;
 			width: 20px;
 			height: 20px;
 			display: block;
 			margin: 3px 10px;
 			float: left;
-		} */
-
+		}
+		
 		.campaign-card {
 			border: 8px solid #0059a6;
 			border-top: none;
@@ -24,7 +24,7 @@
 		}
 
 		.campaign-card p {
-			font-size: 16px;
+			/* font-size: 16px; */
 			width: 100%;
 			margin: 0;
 			font-weight: lighter;
@@ -34,7 +34,7 @@
 		}
 
 		.campaign-card h3 {
-			width: 98%;
+			width: 100%;
 			margin: 0;
 			background-color: #0059a6;
 			text-transform: uppercase;
@@ -85,7 +85,7 @@
 		}
 
 		.campaign-card .starting span {
-			font-size: 18px;
+			/* font-size: 18px; */
 			display: block;
 		}
 
@@ -112,8 +112,8 @@
 			display: inline-block;
 		}
 
-		/* .campaign-card .rate-box .rate {
-			background-image: url('img/rate.png');
+		.campaign-card .rate-box .rate {
+			background-image: url('../assets/img/rate.png');
 			background-size: cover;
 			width: 20px;
 			height: 20px;
@@ -123,6 +123,6 @@
 		}
 
 		.campaign-card .rate-box .rate.active {
-			background-image: url('img/rate-active.png');
-		} */
+			background-image: url('../assets/img/rate-active.png');
+		}
 

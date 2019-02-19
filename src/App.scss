@@ -10,3 +10,13 @@
 body {
   font-family: "Aller"
 }
+
+.cube {
+  background-image: url('./assets/img/cube.png');
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  display: block;
+  margin: 3px 10px;
+  float: left;
+}

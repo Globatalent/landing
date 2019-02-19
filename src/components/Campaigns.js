@@ -6,24 +6,35 @@ import campaign_2 from '../assets/img/campaign_2.png'
 import campaign_3 from '../assets/img/campaign_3.png'
 import './Campaigns.css'
 
+const style = {
+  textColor: {
+    color: '#065aa2'
+  },
+  lightTextColor: {
+    color: '#86d0f7'
+  },
+  autoMargin: {
+    margin: 'auto'
+  }
+}
 
 class Campaigns extends Component {
-  render() {
-    return (
-      <section className="section">
-        <header className="level">
-          <h2 className="title level-item is-4">{this.props.t('campaigns.header')}</h2>
-        </header>
+	render() {
+		return (
+			<section className="section">
+				<header className="level">
+					<h2 className="title level-item is-4" style={style.lightTextColor}>{this.props.t('campaigns.header')}</h2>
+				</header>
 
 				<div className="has-text-centered columns is-centered">
 					<div className="campaign-card column is-3">
-						<img src={campaign_1} class="" alt="sport campaing"/>
-						<p>Muy pronto</p>
-						<h3>Futuro campeón de tennis</h3>
-						<p class="revenues">20% of beneficios y premios.</p>
+						<img src={campaign_1} class="" alt="sport campaing" />
+						<p>{this.props.t('campaigns.startingSoon')}</p>
+						<h3>{this.props.t('campaigns.title_3')}</h3>
+						<p class="revenues">{this.props.t('campaigns.text_3')}</p>
 						<ul>
-							<li><span class="cube"></span>Financiación ---------- $150,000</li>
-							<li><span class="cube"></span>Mínimo requerido --- $100,000</li>
+							<li><span class="cube"></span>{this.props.t('campaigns.funding')} --- $150,000</li>
+							<li><span class="cube"></span>{this.props.t('campaigns.softcap')} --- $100,000</li>
 							<li>
 								<span class="cube"></span>
 								<span class="rate-text">Rating</span>
@@ -37,20 +48,20 @@ class Campaigns extends Component {
 							</li>
 						</ul>
 						<a href="#" class="starting">
-							Muy<span>pronto</span>
+							{this.props.t('campaigns.startingSoon')}
 						</a>
 						<span class="triangle"></span>
 						<div class="clearer"></div>
 					</div>
 					<div className="column is-1"></div>
-          <div className="campaign-card column is-3">
-						<img src={campaign_2} class="" alt="sport campaing"/>
-						<p>Muy pronto</p>
-						<h3>Conoce a la emergente estrella de la WTA</h3>
-						<p class="revenues">15% de los beneficios en los próximos 7 años</p>
+					<div className="campaign-card column is-3">
+						<img src={campaign_2} class="" alt="sport campaing" />
+						<p>{this.props.t('campaigns.startingSoon')}</p>
+						<h3>{this.props.t('campaigns.title_2')}</h3>
+						<p class="revenues">{this.props.t('campaigns.text_2')}</p>
 						<ul>
-							<li><span class="cube"></span>Financiación ---------- $300 000</li>
-							<li><span class="cube"></span>Mínimo requerido --- $100 000</li>
+							<li><span class="cube"></span>{this.props.t('campaigns.funding')} --- $300 000</li>
+							<li><span class="cube"></span>{this.props.t('campaigns.softcap')} --- $100 000</li>
 							<li>
 								<span class="cube"></span>
 								<span class="rate-text">Rating</span>
@@ -65,19 +76,19 @@ class Campaigns extends Component {
 						</ul>
 						<div class="clearer"></div>
 						<a href="#" class="starting">
-							Muy<span>pronto</span>
+							{this.props.t('campaigns.startingSoon')}
 						</a>
 						<span class="triangle"></span>
 					</div>
-          <div className="column is-1"></div>
-        	<div className="campaign-card column is-3">
-						<img src={campaign_3} class="" alt="sport campaing"/>
-						<p>Muy pronto</p>
-						<h3>Un empujón a la UEFA</h3>
-						<p class="revenues">20% of beneficios y premios.</p>
+					<div className="column is-1"></div>
+					<div className="campaign-card column is-3">
+						<img src={campaign_3} class="" alt="sport campaing" />
+						<p>{this.props.t('campaigns.startingSoon')}</p>
+						<h3>{this.props.t('campaigns.title_1')}</h3>
+						<p class="revenues">{this.props.t('campaigns.text_1')}</p>
 						<ul>
-							<li><span class="cube"></span>Financiación ---------- $150 000</li>
-							<li><span class="cube"></span>Mínimo requerido --- $30 000</li>
+							<li><span class="cube"></span>{this.props.t('campaigns.funding')} --- $300 000</li>
+							<li><span class="cube"></span>{this.props.t('campaigns.softcap')} --- $100 000</li>
 							<li>
 								<span class="cube"></span>
 								<span class="rate-text">Rating</span>
@@ -92,14 +103,14 @@ class Campaigns extends Component {
 						</ul>
 						<div class="clearer"></div>
 						<a href="#" class="starting">
-							Muy<span>pronto</span>
+							{this.props.t('campaigns.startingSoon')}
 						</a>
 						<span class="triangle"></span>
 					</div>
-				</div>
-      </section>
-    )
-  }
+					</div>
+			</section>
+		)
+	}
 }
 
 export default Campaigns;
