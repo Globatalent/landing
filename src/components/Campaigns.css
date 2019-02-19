@@ -1,128 +1,140 @@
 
 
-		/* .cube {
-			background-image: url('img/cubo.png');
-			background-size: cover;
-			width: 20px;
-			height: 20px;
-			display: block;
-			margin: 3px 10px;
-			float: left;
-		} */
+/* .cube {
+	background-image: url('img/cubo.png');
+	background-size: cover;
+	width: 20px;
+	height: 20px;
+	display: block;
+	margin: 3px 10px;
+	float: left;
+} */
 
-		.campaign-card {
-			border: 8px solid #0059a6;
-			border-top: none;
-			display: inline-block;
-			background-color: white;
-			color: #0059a6;
-			position: relative;
-		}
+.campaign-card {
+	border: 8px solid #0059a6;
+	border-top: none;
+	display: inline-block;
+	background-color: white;
+	color: #0059a6;
+	position: relative;
+}
 
-		.campaign-card img {
-			width: 100%;
-		}
+.campaign-card img {
+	width: 100%;
+}
 
-		.campaign-card p {
-			font-size: 16px;
-			width: 100%;
-			margin: 0;
-			font-weight: lighter;
-			text-transform: uppercase;
-			padding: 15px 1% 8px;
-			letter-spacing: 5px;
-		}
+.campaign-card p {
+	font-size: 16px;
+	width: 100%;
+	margin: 0;
+	font-weight: lighter;
+	text-transform: uppercase;
+	padding: 15px 1% 8px;
+	letter-spacing: 5px;
+}
 
-		.campaign-card h3 {
-			width: 98%;
-			margin: 0;
-			background-color: #0059a6;
-			text-transform: uppercase;
-			color: #4ed2f5;
-			padding: 10px 1%;
-		}
+.campaign-card h3 {
+	width: 98%;
+	margin: 0;
+	background-color: #0059a6;
+	text-transform: uppercase;
+	color: #4ed2f5;
+	padding: 10px 1%;
+}
 
-		.campaign-card .revenues {
-			font-style: italic;
-			font-weight: normal;
-			text-transform: none;
-			padding: 15px 1%;
-			letter-spacing: 0;
-			font-size: 20px;
-			margin-bottom: 100px;
-		}
+.campaign-card .revenues {
+	font-style: italic;
+	font-weight: normal;
+	text-transform: none;
+	padding: 15px 1%;
+	letter-spacing: 0;
+	font-size: 20px;
+	margin-bottom: 100px;
+}
 
-		.campaign-card ul {
-			width: 100%;
-			text-align: left;
-			list-style: none;
-			position: absolute;
-			bottom: 6px;
-			font-size: 14px;
-			font-style: italic;
-		}
+.campaign-card ul {
+	width: 100%;
+	text-align: left;
+	list-style: none;
+	position: absolute;
+	bottom: 6px;
+	font-size: 14px;
+	font-style: italic;
+}
 
-		.campaign-card li {
-			padding: 2% 1%;
-			text-transform: uppercase;
-		}
+.campaign-card li {
+	padding: 2% 1%;
+	text-transform: uppercase;
+}
 
-		.campaign-card li span {
-			margin: 0px 10px;
-		}
+.campaign-card li span {
+	margin: 0px 10px;
+}
 
-		.campaign-card .starting {
-			width: 100%;
-			position: absolute;
-			bottom: 1%;
-			z-index: 999;
-			text-transform: uppercase;
-			font-size: 10px;
-			color: #4ed2f5;
-			text-decoration: none;
-			left: 0;
-			text-align: right;
-		}
+.campaign-card .starting {
+	width: 100%;
+	position: absolute;
+	bottom: 1%;
+	z-index: 999;
+	text-transform: uppercase;
+	font-size: 10px;
+	color: #4ed2f5;
+	text-decoration: none;
+	left: 0;
+	text-align: right;
+}
 
-		.campaign-card .starting span {
-			font-size: 18px;
-			display: block;
-		}
+.campaign-card .starting span {
+	font-size: 18px;
+	display: block;
+}
 
-		.campaign-card span.triangle {
-			width: 0;
-			height: 0;
-			border-left: 60px solid transparent;
-			border-top: 45px solid transparent;
-			border-right: 60px solid #0059a6;
-			border-bottom: 45px solid #0059a6;
-			position: absolute;
-			right: 0;
-			bottom: 0;
-		}
+.campaign-card span.triangle {
+	width: 0;
+	height: 0;
+	border-left: 60px solid transparent;
+	border-top: 45px solid transparent;
+	border-right: 60px solid #0059a6;
+	border-bottom: 45px solid #0059a6;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
 
-		.campaign-card .rate-text {
-			display: inline-block;
-			position: relative;
-			top: -4.4px;
-			margin: 0;
-		}
+.campaign-card .rate-text {
+	display: inline-block;
+	position: relative;
+	top: -4.4px;
+	margin: 0;
+}
 
-		.campaign-card .rate-box {
-			display: inline-block;
-		}
+.campaign-card .rate-box {
+	display: inline-block;
+}
 
-		/* .campaign-card .rate-box .rate {
-			background-image: url('img/rate.png');
-			background-size: cover;
-			width: 20px;
-			height: 20px;
-			display: block;
-			margin: 0 1px;
-			float: left;
-		}
+/* .campaign-card .rate-box .rate {
+	background-image: url('img/rate.png');
+	background-size: cover;
+	width: 20px;
+	height: 20px;
+	display: block;
+	margin: 0 1px;
+	float: left;
+}
 
-		.campaign-card .rate-box .rate.active {
-			background-image: url('img/rate-active.png');
-		} */
+.campaign-card .rate-box .rate.active {
+	background-image: url('img/rate-active.png');
+} */
 
+.campaigns h2 {
+	background-color: rgb(134, 208, 247);
+	color: rgb(10, 88, 163);
+	text-transform: uppercase;
+	font-size: 40px !important;
+	margin-bottom: 50px !important;
+}
+
+.campaigns h2 span {
+	background: #fff;
+	padding: 0 20px;
+}

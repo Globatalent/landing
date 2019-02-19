@@ -10,9 +10,9 @@ import './Campaigns.css'
 class Campaigns extends Component {
   render() {
     return (
-      <section className="section">
+      <section className="section is-paddingless campaigns">
         <header className="level">
-          <h2 className="title level-item is-4">{this.props.t('campaigns.header')}</h2>
+          <h2 className="title level-item is-4"><span>{this.props.t('campaigns.header')}</span></h2>
         </header>
 
 				<div className="has-text-centered columns is-centered">
