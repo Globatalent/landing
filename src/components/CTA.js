@@ -6,7 +6,7 @@ import './CTA.css'
 class CTA extends Component {
   render() {
     return (
-      <section id="contact" className="section columns is-medium is-vcentered is-paddingless">
+      <section id="contact" className="section columns is-medium is-vcentered is-paddingless cta">
         <div className="image is-5 column is-paddingless">
           <figure className="image">
             <img src={cta} alt="" />

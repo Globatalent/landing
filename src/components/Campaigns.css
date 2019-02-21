@@ -20,7 +20,10 @@
 }
 
 .campaign-card img {
-	width: 100%;
+	width: calc(100% + 16px);
+	max-width: 110%;
+	margin-left: -8px;
+	margin-right: -8px;
 }
 
 .campaign-card p {
@@ -138,4 +141,28 @@
 .campaigns h2 span {
 	background: #fff;
 	padding: 0 20px;
+}
+
+.campaigns .column {
+    padding-top: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+@media (max-width: 768px) {
+    .campaigns .column {
+		padding: 0.75rem !important;
+	}
+    .campaign-card ul {
+		position: relative;
+	}
+	.campaign-card .revenues {
+		margin-bottom: 10px;
+	}
+	.campaign-card span.triangle {
+		right: 4px;
+	}
+	.campaign-card .starting {
+		padding-right: 14px;
+	}
 }
