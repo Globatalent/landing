@@ -78,6 +78,25 @@
       "option_11": "Tennis",
       "option_12": "Triathlon"
     },
+    "field_7": {
+      "title": "Reddito",
+      "option_1": {
+        "value": 25000,
+        "label": "25000 USD - 100000 USD" 
+      },
+      "option_2": {
+        "value": 100000,
+        "label": "100000 USD - 500000 USD"
+      },
+      "option_3": {
+        "value": 500000,
+        "label": "500000 USD - 1000000 USD"
+      },
+      "option_4": {
+        "value": 1000000,
+        "label": ">1000000"
+      }
+    },
     "terms": "Accettò termini e condizioni",
     "buttonSend": "Invia",
     "buttonReset": "Reset"
