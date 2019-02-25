@@ -95,7 +95,7 @@ class CTA extends Component {
                 <div className="field">
                   <div className="control">
                     <div className="select is-fullwidth">
-                      <select name='Annual Revenue'>
+                      <select name='LEADCF66'>
                         <option value={this.props.t('form.field_7.option_1.value')}>{this.props.t('form.field_7.option_1.label')}</option>
                         <option value={this.props.t('form.field_7.option_2.value')}>{this.props.t('form.field_7.option_2.label')}</option>
                         <option value={this.props.t('form.field_7.option_3.value')}>{this.props.t('form.field_7.option_3.label')}</option>
