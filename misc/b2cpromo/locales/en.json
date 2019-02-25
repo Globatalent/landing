@@ -1,0 +1,60 @@
+{
+  "site": {
+    "nav": {
+    "url_1": "About",
+    "url_2": "Contact"
+    },
+    "title": "The  first sports crypto exchange  where you can  trade and  support  your favorite clubs and sports idols",
+    "cta": {
+      "title": "Sign up and get",
+      "bold": "5USD*",
+      "button": "Sign up"
+    },
+    "about": {
+      "title": "About",
+      "text": "Globatalent is the the first sports crypto exchange where you can tokenize, trade and support your favorite clubs and sports idols."
+    },
+    "locations": {
+      "title": "Locations",
+      "location_1": {
+        "city": "London",
+        "direction": ""
+      },
+      "location_2": {
+        "city": "Buenos Aires",
+        "direction": ""
+      },
+      "location_3": {
+        "city": "Hong Kong",
+        "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+      } 
+    },
+    "joinSocial": "Join our conversations"
+  },
+  "info": {
+    "title": "Sign up and be the first to be infomed about clubs and athletes joining Globatalent revolution.",
+    "small": "Rewards can only to be used to pay for transaction and withdrawal fees and cannot be withdrawn."
+  },
+  
+  "campaigns": {
+    "header": "Upcoming campaigns:",
+    "showMore": "Show more",
+    "funding": "Funding",
+    "softcap": "Softcap",
+    "startingSoon": "Starting soon",
+    "title_1": "Coming soon - Future tennis champion",
+    "text_1": "20% of revenues and prizes.",
+    "title_2": "Meet the next WTA raising star",
+    "text_2": "15% incomes in next 7 years",
+    "title_3": "Coming Soon - A push to UEFA",
+    "text_3": ""
+  },
+  "supported": {
+    "header": "Globatalent is supported by:",
+    "showMore": "Show more",
+    "text_1": "Formula 1®",
+    "text_2": "NBA veteran",
+    "text_3": "Tennis player",
+    "text_4": "e-Sports team"
+  }
+}

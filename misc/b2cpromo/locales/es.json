@@ -1,0 +1,60 @@
+{
+  "site": {
+    "nav": {
+    "url_1": "Sobre Nosotros",
+    "url_2": "Contacto"
+    },
+    "title": "El primer crypto exchange de deportes donde puedes apoyar, financiar y hacer trading a tus equipos y deportistas favoritos ",
+    "cta": {
+      "title": "Regístrate y consigue",
+      "bold": "5 USD*",
+      "button": "Regístrate"
+    },
+    "about": {
+      "title": "Sobre nosotros",
+      "text": " Globatalent es el primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos."
+    },
+    "locations": {
+      "title": "Localización",
+      "location_1": {
+        "city": "London",
+        "direction": ""
+      },
+      "location_2": {
+        "city": "Buenos Aires",
+        "direction": ""
+      },
+      "location_3": {
+        "city": "Hong Kong",
+        "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+      } 
+    },
+    "joinSocial": "Unete a nuestras redes sociales"
+  },
+  "info": {
+    "title": "Regístrate y se de los primeros en ser informado de los clubes y deportistas que se unen a la revolución de Globatalent.",
+    "small": "Los 5 USD solo pueden ser utilizados para pagar las comisiones de transacciones o retiros, no pueden ser retirados."
+  },
+  
+  "campaigns": {
+    "header": "Próximas campañas:",
+    "showMore": "Más información",
+    "funding": "Financiación",
+    "softcap": "Mínimo requerido",
+    "startingSoon": "Próximamente",
+    "title_1": "Muy pronto - Futuro campeón de tenis.",
+    "text_1": "20% of beneficios y premios.",
+    "title_2": "Conoce a la emergente estrela de la WTA",
+    "text_2": "15%  de los beneficios en los próximos 7 años",
+    "title_3": "Muy pronto - Un empujón a la UEFA",
+    "text_3": ""
+  },
+  "supported": {
+    "header": "Globatalent es apoyado por:",
+    "showMore": "Más información",
+    "text_1": "Formula 1®",
+    "text_2": "Exjugador NBA",
+    "text_3": "Jugadore de tenis",
+    "text_4": "Equipo e-Sports"
+  }
+}
