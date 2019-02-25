@@ -1,7 +1,7 @@
 {
   "main.css": "/b2cpromo/static/css/main.2d9afb12.chunk.css",
-  "main.js": "/b2cpromo/static/js/main.138744e9.chunk.js",
-  "main.js.map": "/b2cpromo/static/js/main.138744e9.chunk.js.map",
+  "main.js": "/b2cpromo/static/js/main.8c404322.chunk.js",
+  "main.js.map": "/b2cpromo/static/js/main.8c404322.chunk.js.map",
   "static/js/1.2ed5eba8.chunk.js": "/b2cpromo/static/js/1.2ed5eba8.chunk.js",
   "static/js/1.2ed5eba8.chunk.js.map": "/b2cpromo/static/js/1.2ed5eba8.chunk.js.map",
   "runtime~main.js": "/b2cpromo/static/js/runtime~main.1de0aed8.js",
@@ -17,6 +17,6 @@
   "static/media/campaign_1.png": "/b2cpromo/static/media/campaign_1.8735af26.png",
   "static/css/main.2d9afb12.chunk.css.map": "/b2cpromo/static/css/main.2d9afb12.chunk.css.map",
   "index.html": "/b2cpromo/index.html",
-  "precache-manifest.2120c5118ebb4029466c23add798fc31.js": "/b2cpromo/precache-manifest.2120c5118ebb4029466c23add798fc31.js",
+  "precache-manifest.88f8e1aae134c0719967f816949e1669.js": "/b2cpromo/precache-manifest.88f8e1aae134c0719967f816949e1669.js",
   "service-worker.js": "/b2cpromo/service-worker.js"
 }
