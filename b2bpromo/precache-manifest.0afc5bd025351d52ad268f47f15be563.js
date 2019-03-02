@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/b2bpromo/static/media/campaign_1.b53facb6.png"
   },
   {
-    "revision": "e045d5165f166d0cb1d5",
+    "revision": "c93cbabee5567a4fa55f",
     "url": "/b2bpromo/static/css/main.a69aa147.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/b2bpromo/static/media/cta.f94ac92c.png"
   },
   {
-    "revision": "e045d5165f166d0cb1d5",
-    "url": "/b2bpromo/static/js/main.e045d516.chunk.js"
+    "revision": "c93cbabee5567a4fa55f",
+    "url": "/b2bpromo/static/js/main.c93cbabe.chunk.js"
   },
   {
     "revision": "967419a1e8e5f4896827495c9b70c8b6",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/b2bpromo/static/media/Aller_Rg.785388a9.ttf"
   },
   {
-    "revision": "9b0d5d6162a5475cb5853181db2b52c6",
+    "revision": "e7228643b31a18b3deae7473a45bbac3",
     "url": "/b2bpromo/index.html"
   }
 ];
