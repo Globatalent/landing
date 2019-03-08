@@ -1,7 +1,7 @@
 {
   "main.css": "/vega/static/css/main.aa8a1f67.chunk.css",
-  "main.js": "/vega/static/js/main.8a3fa90c.chunk.js",
-  "main.js.map": "/vega/static/js/main.8a3fa90c.chunk.js.map",
+  "main.js": "/vega/static/js/main.aae7ceff.chunk.js",
+  "main.js.map": "/vega/static/js/main.aae7ceff.chunk.js.map",
   "static/js/1.c2a99b24.chunk.js": "/vega/static/js/1.c2a99b24.chunk.js",
   "static/js/1.c2a99b24.chunk.js.map": "/vega/static/js/1.c2a99b24.chunk.js.map",
   "runtime~main.js": "/vega/static/js/runtime~main.5950299b.js",
@@ -14,6 +14,6 @@
   "static/media/supp_1.png": "/vega/static/media/supp_1.c27b279c.png",
   "static/css/main.aa8a1f67.chunk.css.map": "/vega/static/css/main.aa8a1f67.chunk.css.map",
   "index.html": "/vega/index.html",
-  "precache-manifest.eae079822a1f4e824594175033f52933.js": "/vega/precache-manifest.eae079822a1f4e824594175033f52933.js",
+  "precache-manifest.db8a5e923d8d0a521ee79fd311c4021b.js": "/vega/precache-manifest.db8a5e923d8d0a521ee79fd311c4021b.js",
   "service-worker.js": "/vega/service-worker.js"
 }
