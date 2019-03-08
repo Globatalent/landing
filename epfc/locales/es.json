@@ -5,12 +5,14 @@
   },
   "title": "El primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos.",
   "cta": {
-    "title": "Apoya a David Vega",
+    "title": "Apoya a Europa Point",
     "only": "por solo",
     "quantity": "20",
     "currency": "USD",
     "action": "y accede a lo siguiente:",
-    "result": "18 % de los premios ATP",
+    "result": "20 % Traspaso de jugadores",
+    "result2": "20 % Premios Champions League o Europa League",
+    "add": "Por los próximos 3 años",
     "button": "Regístrate / 5 USD gratis"
   },
   "steps": {
@@ -20,11 +22,11 @@
     },
     "step2": {
       "action": "Compra",
-      "body": "Utiliza tarjeta de credito, BTC/ETH  para comprar el token de David Vega"
+      "body": "Utiliza tarjeta de credito, BTC/ETH  para comprar el token de Europa Point"
     },
     "step3": {
       "action":"Obtén beneficios",
-      "first": "Conserva el token y obtén parte de los beneficios de David Vega",
+      "first": "Conserva el token y obtén parte de los beneficios de Europa Point",
       "second": "o",
       "third": "Vende tu token en el exchange si ha subido de valor"
     }
