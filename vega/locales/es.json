@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "url_1": "Sobre Nosotros",
+    "url_2": "Contacto"
+  },
+  "title": "El primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos.",
+  "cta": {
+    "title": "Apoya a David Vega",
+    "only": "por solo",
+    "quantity": "20",
+    "currency": "USD",
+    "action": "y accede a lo siguiente",
+    "result": "18 % de los premios ATP  desde Enero de 2021 hasta Diciembre 2030",
+    "button": "Sign up / 5 USD free"
+  },
+  "steps": {
+    "step1": {
+      "action":"Regístrate",
+      "body": "Es muy sencillo , en solo 30 segundos"
+    },
+    "step2": {
+      "action": "Compra",
+      "body": "Utiliza tarjeta de credito, BTC/ETH  para comprar el token de David Vega"
+    },
+    "step3": {
+      "action":"Obtén beneficios",
+      "first": "Conserva el token y obtén parte de los beneficios de David Vega",
+      "second": "o",
+      "third": "Vende tu token en el exchange si ha subido de valor"
+    }
+  },
+  "about": {
+    "title": "Sobre nosotros",
+    "text": "Globatalent es el primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos."
+  },
+  "locations": {
+    "title": "Locations",
+    "location_1": {
+      "city": "Londres",
+      "direction": "GLOBATALENT, Berkeley Suite, 35 Berkeley Square, Mayfair, London, W1J 5BF,UK"
+    },
+    "location_2": {
+      "city": "Buenos Aires",
+      "direction": ""
+    },
+    "location_3": {
+      "city": "Hong Kong",
+      "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+    }
+  },
+  "joinSocial": "Unete a nuestras redes sociales",
+    "info": {
+      "small": "Los 5 USD solo pueden ser utilizados para pagar las comisiones de transacciones o retiros, no pueden ser retirados."
+    },
+  "supported": {
+    "header": "Globatalent es apoyado por:",
+    "showMore": "Más información",
+    "text_1": "Formula 1®",
+    "text_2": "Exjugador NBA",
+    "text_3": "Jugadore de tenis",
+    "text_4": "Equipo e-Sports"
+  }
+}
