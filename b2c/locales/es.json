@@ -5,12 +5,15 @@
   },
   "title": "El primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos.",
   "cta": {
-    "title": "Apoya a David Vega",
+    "title": "Mejor que",
+    "subtitle": "apostar",
+    "subtitle2": "Apoya el talento deportivo",
     "only": "por solo",
     "quantity": "20",
     "currency": "USD",
     "action": "y accede a lo siguiente:",
     "result": "18 % de los premios ATP",
+    "small": "Compra un token de un club/deportista y comparte sus derechos de traspasos,premios, ingresos publicitarios,etc.",
     "button": "Regístrate / 5 USD gratis"
   },
   "steps": {
@@ -20,13 +23,19 @@
     },
     "step2": {
       "action": "Compra",
-      "body": "Utiliza tarjeta de credito, BTC/ETH  para comprar el token de David Vega"
+      "body": "Utiliza tarjeta de credito, BTC/ETH  para comprar el token del deportista/club que quieras"
     },
     "step3": {
       "action":"Obtén beneficios",
-      "first": "Conserva el token y obtén parte de los beneficios de David Vega",
+      "first": {
+        "blue": "Conserva el token",
+        "white": "y obtén parte de los beneficios del deportista/club"
+      },
       "second": "o",
-      "third": "Vende tu token en el exchange si ha subido de valor"
+      "third": {
+        "blue": "Vende tu token",
+        "white": "en nuestro exchange si ha subido de valor"
+      }
     }
   },
   "about": {
