@@ -1,12 +1,12 @@
 {
   "main.css": "/zentro/static/css/main.c84bae0a.chunk.css",
-  "main.js": "/zentro/static/js/main.93428e19.chunk.js",
-  "main.js.map": "/zentro/static/js/main.93428e19.chunk.js.map",
+  "main.js": "/zentro/static/js/main.ef6fbfc9.chunk.js",
+  "main.js.map": "/zentro/static/js/main.ef6fbfc9.chunk.js.map",
   "static/js/1.63f1e6fd.chunk.js": "/zentro/static/js/1.63f1e6fd.chunk.js",
   "static/js/1.63f1e6fd.chunk.js.map": "/zentro/static/js/1.63f1e6fd.chunk.js.map",
   "runtime~main.js": "/zentro/static/js/runtime~main.f929bf04.js",
   "runtime~main.js.map": "/zentro/static/js/runtime~main.f929bf04.js.map",
-  "static/media/hero.png": "/zentro/static/media/hero.0f24ba82.png",
+  "static/media/hero.jpg": "/zentro/static/media/hero.36c7230e.jpg",
   "static/media/supp_2.png": "/zentro/static/media/supp_2.327654da.png",
   "static/media/supp_3.png": "/zentro/static/media/supp_3.0d913f8a.png",
   "static/media/supp_4.png": "/zentro/static/media/supp_4.3b7476c7.png",
@@ -14,6 +14,6 @@
   "static/media/supp_1.png": "/zentro/static/media/supp_1.c27b279c.png",
   "static/css/main.c84bae0a.chunk.css.map": "/zentro/static/css/main.c84bae0a.chunk.css.map",
   "index.html": "/zentro/index.html",
-  "precache-manifest.0f6ea79f5f88b4792ac22b71e841b51c.js": "/zentro/precache-manifest.0f6ea79f5f88b4792ac22b71e841b51c.js",
+  "precache-manifest.4733be9b1965ea0e6ae9a7a16078a6e9.js": "/zentro/precache-manifest.4733be9b1965ea0e6ae9a7a16078a6e9.js",
   "service-worker.js": "/zentro/service-worker.js"
 }

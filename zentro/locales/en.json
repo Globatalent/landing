@@ -10,13 +10,13 @@
     "quantity": "10",
     "currency": "USD",
     "action": "and get your share of:",
-    "result": "6% of the Academy sales from 2021 to 2029",
-    "result2": "24% of the Academy turnover from 2019 to 2029",
+    "result": "6% of the of the academy’s turnover from year 3 until 10",
+    "result2": "24% of the academy’s benefits from year 3 until 10",
     "button": "Sign up / 5 USD free"
   },
   "steps": {
     "step1": {
-      "action":"Signup",
+      "action": "Signup",
       "body": "it is very easy, only 30 seconds"
     },
     "step2": {
@@ -24,10 +24,16 @@
       "body": "Use credit card , BTC/ETH to buy the token of Zentro Madrid"
     },
     "step3": {
-      "action":"Get profit",
-      "first": "Keep the token and be part of Zentro Madrid profit",
+      "action": "Get profit",
+      "first": {
+        "blue": "Keep the token",
+        "white": "and be part of Zentro Madrid profit"
+      },
       "second": "or",
-      "third": "Sell the token  on our exchange if the token value rises"
+      "third": {
+        "blue": "Sell the token",
+        "white":"on our exchange if the token value rises"
+      }
     }
   },
   "about": {

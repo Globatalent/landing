@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/zentro/static/media/supp_1.c27b279c.png"
   },
   {
-    "revision": "93428e198b18e18f1978",
+    "revision": "ef6fbfc96182bff71b92",
     "url": "/zentro/static/css/main.c84bae0a.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/zentro/static/js/runtime~main.f929bf04.js"
   },
   {
-    "revision": "0f24ba828f9a6d3d675c81d5ff755eb4",
-    "url": "/zentro/static/media/hero.0f24ba82.png"
+    "revision": "36c7230e976b140d7a3be96bd2c3a67e",
+    "url": "/zentro/static/media/hero.36c7230e.jpg"
   },
   {
-    "revision": "93428e198b18e18f1978",
-    "url": "/zentro/static/js/main.93428e19.chunk.js"
+    "revision": "ef6fbfc96182bff71b92",
+    "url": "/zentro/static/js/main.ef6fbfc9.chunk.js"
   },
   {
     "revision": "327654da90de0f7dd27ce686e0c77ef0",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/zentro/static/media/Aller_Rg.785388a9.ttf"
   },
   {
-    "revision": "dbf8d76c76907b8b768f9af28b05ed8a",
+    "revision": "c64cba904334a4e9edbeb7fb31df2d85",
     "url": "/zentro/index.html"
   }
 ];

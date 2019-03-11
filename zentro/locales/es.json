@@ -10,8 +10,8 @@
     "quantity": "10",
     "currency": "USD",
     "action": "y accede a lo siguiente:",
-    "result": "6 % de los ingresos de la academia desde el 2021 hasta el 2029",
-    "result2": "24 % de la facturación de la academia  desde 2019 al 2029",
+    "result": "6 % de la facturación de la academia del año 3 al año 10",
+    "result2": "24 % de los beneficio de la academia desde el año 3 al año 10",
     "button": "Regístrate / 5 USD gratis"
   },
   "steps": {
@@ -25,9 +25,15 @@
     },
     "step3": {
       "action":"Obtén beneficios",
-      "first": "Conserva el token y obtén parte de los beneficios de Zentro Madrid",
+      "first": {
+        "blue": "Conserva el token",
+        "white": "y obtén parte de los beneficios de Zentro Madrid"
+      },
       "second": "o",
-      "third": "Vende tu token en el exchange si ha subido de valor"
+      "third": {
+        "blue": "Vende tu token",
+        "white": "en el exchange si ha subido de valor"
+      }
     }
   },
   "about": {
@@ -35,7 +41,7 @@
     "text": "Globatalent es el primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos."
   },
   "locations": {
-    "title": "Locations",
+    "title": "Donde estamos",
     "location_1": {
       "city": "Londres",
       "direction": "GLOBATALENT, Berkeley Suite, 35 Berkeley Square, Mayfair, London, W1J 5BF,UK"
