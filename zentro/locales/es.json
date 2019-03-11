@@ -5,7 +5,7 @@
   },
   "title": "El primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos.",
   "cta": {
-    "title": "Apoya a Zentro Madrid",
+    "title": "Apoya a Zentro Basket Madrid",
     "only": "por solo",
     "quantity": "10",
     "currency": "USD",
@@ -21,13 +21,13 @@
     },
     "step2": {
       "action": "Compra",
-      "body": "Utiliza tarjeta de credito, BTC/ETH  para comprar el token de Zentro Madrid"
+      "body": "Utiliza tarjeta de credito, BTC/ETH  para comprar el token de Zentro Basket Madrid"
     },
     "step3": {
       "action":"Obtén beneficios",
       "first": {
         "blue": "Conserva el token",
-        "white": "y obtén parte de los beneficios de Zentro Madrid"
+        "white": "y obtén parte de los beneficios de Zentro Basket Madrid"
       },
       "second": "o",
       "third": {
