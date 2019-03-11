@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/vega/static/media/supp_1.c27b279c.png"
   },
   {
-    "revision": "f9c1617f089f00a6d66a",
+    "revision": "9f3fa647d8e88eaf1018",
     "url": "/vega/static/css/main.aa8a1f67.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/vega/static/media/hero.ad0355ce.png"
   },
   {
-    "revision": "f9c1617f089f00a6d66a",
-    "url": "/vega/static/js/main.f9c1617f.chunk.js"
+    "revision": "9f3fa647d8e88eaf1018",
+    "url": "/vega/static/js/main.9f3fa647.chunk.js"
   },
   {
     "revision": "327654da90de0f7dd27ce686e0c77ef0",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/vega/static/media/Aller_Rg.785388a9.ttf"
   },
   {
-    "revision": "b8b520323a57bc4377b0f4c48c1a2bd2",
+    "revision": "f9b8cd4bf98f68d067096f5b8bd279fc",
     "url": "/vega/index.html"
   }
 ];
