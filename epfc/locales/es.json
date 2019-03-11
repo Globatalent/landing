@@ -26,9 +26,15 @@
     },
     "step3": {
       "action":"Obtén beneficios",
-      "first": "Conserva el token y obtén parte de los beneficios de Europa Point",
+      "first": {
+        "blue": "Conserva el token",
+        "white": "y obtén parte de los beneficios de Europa Point"
+      },
       "second": "o",
-      "third": "Vende tu token en el exchange si ha subido de valor"
+      "third": {
+        "blue": "Vende tu token",
+        "white": "en el exchange si ha subido de valor"
+      }
     }
   },
   "about": {

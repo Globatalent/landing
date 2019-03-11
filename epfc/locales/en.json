@@ -25,10 +25,16 @@
       "body": "Use credit card , BTC/ETH to buy the token of Europa Point"
     },
     "step3": {
-      "action":"Get profit",
-      "first": "Keep the token and be part of Europa Point profit",
+      "action": "Get profit",
+      "first": {
+        "blue": "Keep the token",
+        "white": "and be part of Europa Point profit"
+      },
       "second": "or",
-      "third": "Sell the token  on our exchange if the token value rises"
+      "third": {
+        "blue": "Sell the token",
+        "white":"on our exchange if the token value rises"
+      }
     }
   },
   "about": {
