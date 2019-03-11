@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "url_1": "About",
+    "url_2": "Contact"
+  },
+  "title": "The  first sports crypto exchange  where you can  trade and  support  your favorite clubs and sports idols",
+  "cta": {
+    "title": "Better than",
+    "subtitle": "betting",
+    "subtitle2": "Support sport talent",
+    "only": "for only",
+    "quantity": "20",
+    "currency": "USD",
+    "action": "and get your share of:",
+    "result": "18% ATP prize income",
+    "button": "Sign up / 5 USD free",
+    "small":"Buy a Club/Athlete token and be part of player transfer rights, prize money, advertising rights etc."
+  },
+  "steps": {
+    "step1": {
+      "action":"Signup",
+      "body": "it is very easy, only 30 seconds"
+    },
+    "step2": {
+      "action": "Buy token",
+      "body": "Use credit card , BTC/ETH to buy your favorite Club/athlete token"
+    },
+    "step3": {
+      "action":"Get profit",
+      "first": {
+        "blue": "Keep the token",
+        "white": "and be part of the  Club/athlete profits"
+      },
+      "second": "or",
+      "third": {
+        "blue": "Sell the token",
+        "white": "on our exchange if the token value rises"
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "text": "Globatalent is the the first sports crypto exchange where you can tokenize, trade and support your favorite clubs and sports idols."
+  },
+  "locations": {
+    "title": "Locations",
+    "location_1": {
+      "city": "London",
+      "direction": "GLOBATALENT, Berkeley Suite, 35 Berkeley Square, Mayfair, London, W1J 5BF,UK"
+    },
+    "location_2": {
+      "city": "Buenos Aires",
+      "direction": ""
+    },
+    "location_3": {
+      "city": "Hong Kong",
+      "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+    }
+  },
+  "joinSocial": "Join our conversations",
+  "info": {
+    "title": "Sign up and be the first to be infomed about clubs and athletes joining Globatalent revolution.",
+    "small": "*Rewards can only to be used to pay for transaction and withdrawal fees and cannot be withdrawn."
+  },
+  "supported": {
+    "header": "Globatalent is supported by:",
+    "showMore": "Show more",
+    "text_1": "Formula 1®",
+    "text_2": "NBA veteran",
+    "text_3": "Tennis player",
+    "text_4": "e-Sports team"
+  }
+}
