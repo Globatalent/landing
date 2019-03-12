@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/b2c/static/media/zentro.36c7230e.jpg"
   },
   {
-    "revision": "77d7197a6921285fc270",
-    "url": "/b2c/static/css/main.8b592a93.chunk.css"
+    "revision": "d8fc0a9920a866233561",
+    "url": "/b2c/static/css/main.4f7ebb1f.chunk.css"
   },
   {
-    "revision": "b5f1e6c5e8889d0a623d",
-    "url": "/b2c/static/js/1.b5f1e6c5.chunk.js"
+    "revision": "78654683bd1921e0584b",
+    "url": "/b2c/static/js/1.78654683.chunk.js"
   },
   {
     "revision": "52aa4afea69d971d0c81",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/b2c/static/media/vega.1e58b887.JPG"
   },
   {
-    "revision": "77d7197a6921285fc270",
-    "url": "/b2c/static/js/main.77d7197a.chunk.js"
+    "revision": "d8fc0a9920a866233561",
+    "url": "/b2c/static/js/main.d8fc0a99.chunk.js"
   },
   {
     "revision": "c27b279c3fb2538ca8bdda0d7f89bfdf",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/b2c/static/media/Aller_Rg.785388a9.ttf"
   },
   {
-    "revision": "0a84ca288ab7a14da5d2925238e34b98",
+    "revision": "acd5adb988f7f620296824b5fc996cdd",
     "url": "/b2c/index.html"
   }
 ];
