@@ -38,6 +38,36 @@
       }
     }
   },
+  "card": {
+    "funding": "Funding",
+    "time": "days left",
+    "rating": "Rating",
+    "title_1": "Let's take Europa Point F.C. to UEFA",
+    "title_2": "David Vega - Future Tennis champion",
+    "title_3": "Zentro Basket Madrid - Club & Academy",
+    "buy": "Buy",
+    "offer_1": {
+      "blue_1": "20%",
+      "white_1": "of Champions or Europa League UEFA prize money and",
+      "blue_2": "20%",
+      "white_2": "on player transfer rights"
+    },
+    "offer_2": {
+      "blue_1": "18% of ATP ",
+      "white_1": "prize money incomes from January 1st 2021 until December 2030"
+    },
+    "offer_3": {
+      "blue_1": "6%",
+      "white_1": "of the of the academy’s turnover from year 3 until 10, and",
+      "blue_2": "24%",
+      "white_2": " of the academy’s benefits from year 3 until 10"
+    },
+    "cta_1": "High chances to qualify to UEFA!",
+    "cta_2": "Multiply your support by 5!!",
+    "cta_3": "Estimated total support returned: 225%-275% (10 years)"
+
+
+  },
   "about": {
     "title": "About",
     "text": "Globatalent is the the first sports crypto exchange where you can tokenize, trade and support your favorite clubs and sports idols."

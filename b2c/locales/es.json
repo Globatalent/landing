@@ -42,6 +42,34 @@
     "title": "Sobre nosotros",
     "text": "Globatalent es el primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos."
   },
+  "card": {
+    "funding": "Financiación necesaria",
+    "time": "dias restantes",
+    "rating": "Rating",
+    "title_1": "Llevemos al Europa Point F.C. a la UEFA",
+    "title_2": "David Vega - Futuro campeón de tennis",
+    "title_3": "Zentro Basket Madrid - Club y Academia",
+    "buy": "Comprar",
+    "offer_1": {
+      "blue_1": "20%",
+      "white_1": "del dinero de premios de la Champios o Europa League y",
+      "blue_2": "20%",
+      "white_2": "de los derechos de traspaso"
+    },
+    "offer_2": {
+      "blue_1": "18% de los premios de la ATP ",
+      "white_1": "de Enero de 2021 hasta Diciembre de 2030"
+    },
+    "offer_3": {
+      "blue_1": "6%",
+      "white_1": "de la facturación de la Academia del año 3 al 10 y",
+      "blue_2": "24%",
+      "white_2": "del beneficio de la Academaia del año 3 al 10"
+    },
+    "cta_1": "¡Altas probabilidades de clasificarse para la UEFA!",
+    "cta_2": "¡Múltiplica tu apoyo por 5!",
+    "cta_3": "Retorno de fondos estimados: 225%-275% (a 10 años)"
+  },
   "locations": {
     "title": "Locations",
     "location_1": {
