@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/b2c/static/media/zentro.36c7230e.jpg"
   },
   {
-    "revision": "d8fc0a9920a866233561",
+    "revision": "ab81569905fbfa37b09e",
     "url": "/b2c/static/css/main.4f7ebb1f.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/b2c/static/media/vega.1e58b887.JPG"
   },
   {
-    "revision": "d8fc0a9920a866233561",
-    "url": "/b2c/static/js/main.d8fc0a99.chunk.js"
+    "revision": "ab81569905fbfa37b09e",
+    "url": "/b2c/static/js/main.ab815699.chunk.js"
   },
   {
     "revision": "c27b279c3fb2538ca8bdda0d7f89bfdf",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/b2c/static/media/Aller_Rg.785388a9.ttf"
   },
   {
-    "revision": "acd5adb988f7f620296824b5fc996cdd",
+    "revision": "28b6ad36aac217a16481b880e7c075b5",
     "url": "/b2c/index.html"
   }
 ];

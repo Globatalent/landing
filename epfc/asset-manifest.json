@@ -1,7 +1,7 @@
 {
   "main.css": "/epfc/static/css/main.de1b51ac.chunk.css",
-  "main.js": "/epfc/static/js/main.85b7113e.chunk.js",
-  "main.js.map": "/epfc/static/js/main.85b7113e.chunk.js.map",
+  "main.js": "/epfc/static/js/main.b20480de.chunk.js",
+  "main.js.map": "/epfc/static/js/main.b20480de.chunk.js.map",
   "static/js/1.603909ad.chunk.js": "/epfc/static/js/1.603909ad.chunk.js",
   "static/js/1.603909ad.chunk.js.map": "/epfc/static/js/1.603909ad.chunk.js.map",
   "runtime~main.js": "/epfc/static/js/runtime~main.53a96c7a.js",
@@ -14,6 +14,6 @@
   "static/media/supp_1.png": "/epfc/static/media/supp_1.c27b279c.png",
   "static/css/main.de1b51ac.chunk.css.map": "/epfc/static/css/main.de1b51ac.chunk.css.map",
   "index.html": "/epfc/index.html",
-  "precache-manifest.f8fa1365bcb29dcece48cac7ebb4bb1c.js": "/epfc/precache-manifest.f8fa1365bcb29dcece48cac7ebb4bb1c.js",
+  "precache-manifest.b7d381d5c13807b85cff40e046bdd854.js": "/epfc/precache-manifest.b7d381d5c13807b85cff40e046bdd854.js",
   "service-worker.js": "/epfc/service-worker.js"
 }
