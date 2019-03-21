@@ -16,7 +16,7 @@
     "small": "Compra un token de un club/deportista y comparte sus derechos de traspasos,premios, ingresos publicitarios,etc.",
     "button": "Regístrate / 5 USD gratis"
   },
-  "futmondo": "Regístrate en Globatalent con el mismo mail que usas en Futmondo y te daremos 4.500 mondos" ,
+  "futmondo":"Registrate en Globatalent con el mail que usas en basketmondo y recibirás una invitación para participar en un campeonato (NBA/ACB) con los siguientes premios:<br/>* Una camiseta del Baskonia para el ganador final<br/>* 1 token del CLUB XX para los 3 mejores de cada jornada",
   "steps": {
     "step1": {
       "action":"Regístrate",
