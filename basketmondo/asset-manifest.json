@@ -1,9 +1,9 @@
 {
   "main.css": "/basketmondo/static/css/main.6726fefc.chunk.css",
-  "main.js": "/basketmondo/static/js/main.dc420e35.chunk.js",
-  "main.js.map": "/basketmondo/static/js/main.dc420e35.chunk.js.map",
-  "static/js/1.b97ab106.chunk.js": "/basketmondo/static/js/1.b97ab106.chunk.js",
-  "static/js/1.b97ab106.chunk.js.map": "/basketmondo/static/js/1.b97ab106.chunk.js.map",
+  "main.js": "/basketmondo/static/js/main.2bdaa773.chunk.js",
+  "main.js.map": "/basketmondo/static/js/main.2bdaa773.chunk.js.map",
+  "static/js/1.fc3438e6.chunk.js": "/basketmondo/static/js/1.fc3438e6.chunk.js",
+  "static/js/1.fc3438e6.chunk.js.map": "/basketmondo/static/js/1.fc3438e6.chunk.js.map",
   "runtime~main.js": "/basketmondo/static/js/runtime~main.3db0a15f.js",
   "runtime~main.js.map": "/basketmondo/static/js/runtime~main.3db0a15f.js.map",
   "static/media/App.scss": "/basketmondo/static/media/Aller_It.f8ad0167.ttf",
@@ -19,6 +19,6 @@
   "static/media/basketmondo.PNG": "/basketmondo/static/media/basketmondo.07cc59fb.PNG",
   "static/css/main.6726fefc.chunk.css.map": "/basketmondo/static/css/main.6726fefc.chunk.css.map",
   "index.html": "/basketmondo/index.html",
-  "precache-manifest.b3f1ec78df7d0f48e4c6da9d79026038.js": "/basketmondo/precache-manifest.b3f1ec78df7d0f48e4c6da9d79026038.js",
+  "precache-manifest.5e3447679401849e88a63bd015b1bf5f.js": "/basketmondo/precache-manifest.5e3447679401849e88a63bd015b1bf5f.js",
   "service-worker.js": "/basketmondo/service-worker.js"
 }

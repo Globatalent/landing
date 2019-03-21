@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/basketmondo/static/media/fighter.58b30c2c.jpg"
   },
   {
-    "revision": "dc420e3523640d07f598",
+    "revision": "2bdaa7737bfc805de40f",
     "url": "/basketmondo/static/css/main.6726fefc.chunk.css"
   },
   {
-    "revision": "b97ab106bd4732b4fcaf",
-    "url": "/basketmondo/static/js/1.b97ab106.chunk.js"
+    "revision": "fc3438e6749f97e4b090",
+    "url": "/basketmondo/static/js/1.fc3438e6.chunk.js"
   },
   {
     "revision": "3db0a15f0906ce00b8f1",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/basketmondo/static/media/zentro.36c7230e.jpg"
   },
   {
-    "revision": "dc420e3523640d07f598",
-    "url": "/basketmondo/static/js/main.dc420e35.chunk.js"
+    "revision": "2bdaa7737bfc805de40f",
+    "url": "/basketmondo/static/js/main.2bdaa773.chunk.js"
   },
   {
     "revision": "c27b279c3fb2538ca8bdda0d7f89bfdf",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/basketmondo/static/media/Aller_Rg.785388a9.ttf"
   },
   {
-    "revision": "22a969781fd4ff3dba17116d0c7a9440",
+    "revision": "a73dbf19b1a41fa4384ee4e1bc41d196",
     "url": "/basketmondo/index.html"
   }
 ];
