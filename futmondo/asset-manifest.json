@@ -1,9 +1,9 @@
 {
   "main.css": "/futmondo/static/css/main.cd2398a5.chunk.css",
-  "main.js": "/futmondo/static/js/main.7b21b4e5.chunk.js",
-  "main.js.map": "/futmondo/static/js/main.7b21b4e5.chunk.js.map",
-  "static/js/1.e398236e.chunk.js": "/futmondo/static/js/1.e398236e.chunk.js",
-  "static/js/1.e398236e.chunk.js.map": "/futmondo/static/js/1.e398236e.chunk.js.map",
+  "main.js": "/futmondo/static/js/main.bdd179a3.chunk.js",
+  "main.js.map": "/futmondo/static/js/main.bdd179a3.chunk.js.map",
+  "static/js/1.026cb369.chunk.js": "/futmondo/static/js/1.026cb369.chunk.js",
+  "static/js/1.026cb369.chunk.js.map": "/futmondo/static/js/1.026cb369.chunk.js.map",
   "runtime~main.js": "/futmondo/static/js/runtime~main.9e25ac3f.js",
   "runtime~main.js.map": "/futmondo/static/js/runtime~main.9e25ac3f.js.map",
   "static/media/App.scss": "/futmondo/static/media/Aller_It.f8ad0167.ttf",
@@ -19,6 +19,6 @@
   "static/media/futmondo--horizontal.png": "/futmondo/static/media/futmondo--horizontal.342bba37.png",
   "static/css/main.cd2398a5.chunk.css.map": "/futmondo/static/css/main.cd2398a5.chunk.css.map",
   "index.html": "/futmondo/index.html",
-  "precache-manifest.a3384346c50be37dc6bc0773048ec867.js": "/futmondo/precache-manifest.a3384346c50be37dc6bc0773048ec867.js",
+  "precache-manifest.812615a32d69e9501646dc91f022cb43.js": "/futmondo/precache-manifest.812615a32d69e9501646dc91f022cb43.js",
   "service-worker.js": "/futmondo/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/futmondo/precache-manifest.a3384346c50be37dc6bc0773048ec867.js"
+  "/futmondo/precache-manifest.812615a32d69e9501646dc91f022cb43.js"
 );
 
 workbox.clientsClaim();
