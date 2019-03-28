@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "url_1": "Sobre Nosotros",
+    "url_2": "Contacto"
+  },
+  "title": "El primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos.",
+  "cta": {
+    "title": "Compra tokens de",
+    "subtitle": "deportistas y clubes",
+    "subtitle2": "Y accede a sus beneficios",
+    "only": "por solo",
+    "quantity": "20",
+    "currency": "USD",
+    "action": "y accede a lo siguiente:",
+    "result": "18 % de los premios ATP",
+    "small": "Compra un token de un club/deportista y comparte sus derechos de traspasos,premios, ingresos publicitarios,etc.",
+    "button": "Regístrate / 5 USD gratis"
+  },
+  "steps": {
+    "step1": {
+      "action":"Regístrate",
+      "body": "Es muy sencillo , en solo 30 segundos"
+    },
+    "step2": {
+      "action": "Compra",
+      "body": "Utiliza tarjeta de credito, BTC/ETH  para comprar el token del deportista/club que quieras"
+    },
+    "step3": {
+      "action":"Obtén beneficios",
+      "first": {
+        "blue": "Conserva el token",
+        "white": "y obtén parte de los beneficios del deportista/club"
+      },
+      "second": "o",
+      "third": {
+        "blue": "Vende tu token",
+        "white": "en nuestro exchange si ha subido de valor"
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre nosotros",
+    "text": "Globatalent es el primer crypto exchange de deporte donde puedes tokenizar, intercambiar y apoyar a tus clubes e ídolos deportivos favoritos."
+  },
+  "card": {
+    "funding": "Financiación necesaria",
+    "time": "dias restantes",
+    "rating": "Rating",
+    "title_1": "Llevemos al Europa Point F.C. a la UEFA",
+    "title_2": "David Vega - Futuro campeón de tennis",
+    "title_3": "Zentro Basket Madrid - Club y Academia",
+    "buy": "Comprar",
+    "offer_1": {
+      "blue_1": "20%",
+      "white_1": "del dinero de premios de la Champios o Europa League y",
+      "blue_2": "20%",
+      "white_2": "de los derechos de traspaso"
+    },
+    "offer_2": {
+      "blue_1": "18% de los premios de la ATP ",
+      "white_1": "de Enero de 2021 hasta Diciembre de 2030"
+    },
+    "offer_3": {
+      "blue_1": "6%",
+      "white_1": "de la facturación de la Academia del año 3 al 10 y",
+      "blue_2": "24%",
+      "white_2": "del beneficio de la Academia del año 3 al 10"
+    },
+    "cta_1": "¡Altas probabilidades de clasificarse para la UEFA!",
+    "cta_2": "¡Múltiplica tu apoyo por 5!",
+    "cta_3": "Retorno de fondos estimados: 225%-275% (a 10 años)"
+  },
+  "locations": {
+    "title": "Locations",
+    "location_1": {
+      "city": "Londres",
+      "direction": "GLOBATALENT, Berkeley Suite, 35 Berkeley Square, Mayfair, London, W1J 5BF,UK"
+    },
+    "location_2": {
+      "city": "Buenos Aires",
+      "direction": ""
+    },
+    "location_3": {
+      "city": "Hong Kong",
+      "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+    }
+  },
+  "joinSocial": "Unete a nuestras redes sociales",
+    "info": {
+      "small": "Los 5 USD solo pueden ser utilizados para pagar las comisiones de transacciones o retiros, no pueden ser retirados."
+    },
+  "supported": {
+    "header": "Globatalent es apoyado por:",
+    "showMore": "Más información",
+    "text_1": "Formula 1®",
+    "text_2": "Exjugador NBA",
+    "text_3": "Jugadore de tenis",
+    "text_4": "Equipo e-Sports"
+  }
+}

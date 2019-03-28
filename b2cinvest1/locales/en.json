@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "url_1": "About",
+    "url_2": "Contact"
+  },
+  "title": "The  first sports crypto exchange  where you can  trade and  support  your favorite clubs and sports idols",
+  "cta": {
+    "title": "Access to Clubs and Athletes",
+    "subtitle": "profit",
+    "subtitle2": "While supporting sport talent",
+    "only": "for only",
+    "quantity": "20",
+    "currency": "USD",
+    "action": "and get your share of:",
+    "result": "18% ATP prize income",
+    "button": "Sign up / 5 USD free",
+    "small":"Buy a Club/Athlete token and be part of player transfer fees, prize money, advertising rights etc."
+  },
+  "steps": {
+    "step1": {
+      "action":"Signup",
+      "body": "it is very easy, only 30 seconds"
+    },
+    "step2": {
+      "action": "Buy token",
+      "body": "Use credit card , BTC/ETH to buy your favorite Club/athlete token"
+    },
+    "step3": {
+      "action":"Get profit",
+      "first": {
+        "blue": "Keep the token",
+        "white": "and be part of the  Club/athlete profits"
+      },
+      "second": "or",
+      "third": {
+        "blue": "Sell the token",
+        "white": "on our exchange if the token value rises"
+      }
+    }
+  },
+  "card": {
+    "funding": "Funding",
+    "time": "days left",
+    "rating": "Rating",
+    "title_1": "Let's take Europa Point F.C. to UEFA",
+    "title_2": "David Vega - Future Tennis champion",
+    "title_3": "Zentro Basket Madrid - Club & Academy",
+    "buy": "Buy",
+    "offer_1": {
+      "blue_1": "20%",
+      "white_1": "of Champions or Europa League UEFA prize money and",
+      "blue_2": "20%",
+      "white_2": "on player transfer rights"
+    },
+    "offer_2": {
+      "blue_1": "18% of ATP ",
+      "white_1": "prize money incomes from January 1st 2021 until December 2030"
+    },
+    "offer_3": {
+      "blue_1": "6%",
+      "white_1": "of the of the academy’s turnover from year 3 until 10, and",
+      "blue_2": "24%",
+      "white_2": " of the academy’s benefits from year 3 until 10"
+    },
+    "cta_1": "High chances to qualify to UEFA!",
+    "cta_2": "Multiply your support by 5!!",
+    "cta_3": "Estimated total support returned: 225%-275% (10 years)"
+
+
+  },
+  "about": {
+    "title": "About",
+    "text": "Globatalent is the the first sports crypto exchange where you can tokenize, trade and support your favorite clubs and sports idols."
+  },
+  "locations": {
+    "title": "Locations",
+    "location_1": {
+      "city": "London",
+      "direction": "GLOBATALENT, Berkeley Suite, 35 Berkeley Square, Mayfair, London, W1J 5BF,UK"
+    },
+    "location_2": {
+      "city": "Buenos Aires",
+      "direction": ""
+    },
+    "location_3": {
+      "city": "Hong Kong",
+      "direction": "1/F Knowles Building, HKU, Pokfulam Road"
+    }
+  },
+  "joinSocial": "Join our conversations",
+  "info": {
+    "title": "Sign up and be the first to be infomed about clubs and athletes joining Globatalent revolution.",
+    "small": "*Rewards can only to be used to pay for transaction and withdrawal fees and cannot be withdrawn."
+  },
+  "supported": {
+    "header": "Globatalent is supported by:",
+    "showMore": "Show more",
+    "text_1": "Formula 1®",
+    "text_2": "NBA veteran",
+    "text_3": "Tennis player",
+    "text_4": "e-Sports team"
+  }
+}
