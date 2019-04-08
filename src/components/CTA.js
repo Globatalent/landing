@@ -5,6 +5,7 @@ import './CTA.css'
 
 class CTA extends Component {
   render() {
+    const lng = this.props.lng.includes('es') ? 'Spanish' : 'English';
     return (
       <section id="contact" className="section columns is-medium is-vcentered is-paddingless cta">
         <div className="image is-5 column is-paddingless">
@@ -26,6 +27,7 @@ class CTA extends Component {
           <input type='hidden' name='actionType' value='TGVhZHM=' />
           <input type='hidden' name='returnURL' value='https://landing.globatalent.com/redirect' />
           <input type='hidden' name='LEADCF1' value='B2B' />
+          <input type='hidden' name='LEADCF4' value={lng} />
 
           <div className="inputs-container">
             <div className="field is-horizontal two-per-row">

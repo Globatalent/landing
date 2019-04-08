@@ -28,10 +28,10 @@ class Hero extends Component {
             <div className="level-item"></div>
             <div id="navbarBurguer" className="navbar-menu level-item">
               <a className="navbar-item has-text-white" href="#about">
-              <span class="cube"></span> {this.props.t('site.nav.url_1')}
+              <span className="cube"></span> {this.props.t('site.nav.url_1')}
               </a>
               <a className="navbar-item has-text-white" href="#contact">
-              <span class="cube"></span> {this.props.t('site.nav.url_2')}
+              <span className="cube"></span> {this.props.t('site.nav.url_2')}
               </a>
             </div>
           </nav>
