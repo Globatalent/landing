@@ -1,7 +1,7 @@
 {
   "main.css": "/b2bpromo/static/css/main.aceb9b70.chunk.css",
-  "main.js": "/b2bpromo/static/js/main.8d54b935.chunk.js",
-  "main.js.map": "/b2bpromo/static/js/main.8d54b935.chunk.js.map",
+  "main.js": "/b2bpromo/static/js/main.dd7c13ea.chunk.js",
+  "main.js.map": "/b2bpromo/static/js/main.dd7c13ea.chunk.js.map",
   "static/js/1.0d8bd9f8.chunk.js": "/b2bpromo/static/js/1.0d8bd9f8.chunk.js",
   "static/js/1.0d8bd9f8.chunk.js.map": "/b2bpromo/static/js/1.0d8bd9f8.chunk.js.map",
   "runtime~main.js": "/b2bpromo/static/js/runtime~main.b23a89fa.js",
@@ -21,6 +21,6 @@
   "static/media/App.scss": "/b2bpromo/static/media/Aller_Rg.785388a9.ttf",
   "static/css/main.aceb9b70.chunk.css.map": "/b2bpromo/static/css/main.aceb9b70.chunk.css.map",
   "index.html": "/b2bpromo/index.html",
-  "precache-manifest.2ded72c30e79b461a83b80339fbfeac4.js": "/b2bpromo/precache-manifest.2ded72c30e79b461a83b80339fbfeac4.js",
+  "precache-manifest.6c784880a1954c98e1ab71d73aa33f19.js": "/b2bpromo/precache-manifest.6c784880a1954c98e1ab71d73aa33f19.js",
   "service-worker.js": "/b2bpromo/service-worker.js"
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8d54b93532109f5652a5",
+    "revision": "dd7c13ea617100bc16b8",
     "url": "/b2bpromo/static/css/main.aceb9b70.chunk.css"
   },
   {
-    "revision": "8d54b93532109f5652a5",
-    "url": "/b2bpromo/static/js/main.8d54b935.chunk.js"
+    "revision": "dd7c13ea617100bc16b8",
+    "url": "/b2bpromo/static/js/main.dd7c13ea.chunk.js"
   },
   {
     "revision": "0d8bd9f89b9d4c7b4f43",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/b2bpromo/static/media/Aller_Rg.785388a9.ttf"
   },
   {
-    "revision": "e3bab69f8311d93df39b7c1a8c2536a3",
+    "revision": "d20d35256586c032fecba7a7ab952828",
     "url": "/b2bpromo/index.html"
   }
 ];
