@@ -10,11 +10,12 @@ import './i18n';
 
 class App extends Component {
   render() {
+    // console.log(this.props.lng.includes('es') ? 'Spanish' : 'English')
     return (
       <div>
         <Hero t={this.props.t}/>
         <Info t={this.props.t}/>
-        <CTA t={this.props.t}/>
+        <CTA t={this.props.t} lng={this.props.lng} />
         <Campaigns t={this.props.t}/>
         <Supported t={this.props.t}/>
         <Footer t={this.props.t}/>
